@@ -1,0 +1,17 @@
+---
+title: "Syllabus"
+editor: visual
+format:
+  html:
+    css: styles.css
+    fontcolor: black
+    toc: true
+---
+
+This is the syllabus. Here is a bunch of text, let's see if other theme changes are respected on this page? this should be enough text to wrap around the page.
+
+## This is a heading
+
+THis is some text
+
+## another heading

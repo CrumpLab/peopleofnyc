@@ -8,12 +8,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - syllabus.qmd
+      
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: quartz
 
 editor: visual
 
