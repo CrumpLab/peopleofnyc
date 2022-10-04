@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+This is the course website for Seminar 2: People of NYC, taught by [Dr. Matthew Crump](https://crumplab.com) in Spring 2023, for the [Macaulay Honor's program at Brooklyn College of CUNY](https://www.brooklyn.cuny.edu/web/academics/honors-academy/programs/macaulay.php).
+
+As of Fall 2022, this website is currently under development.
