@@ -4,7 +4,6 @@ editor: visual
 format:
   html:
     css: styles.css
-    fontcolor: black
     toc: true
 ---
 

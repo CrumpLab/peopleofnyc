@@ -1,6 +1,20 @@
 ---
-title: "People of NYC"
+title: " "
+format:
+  html: 
+    css: home.css
+    fontcolor: white
+    page-layout: full
 ---
+
+```{r, echo=FALSE}
+#| column: screen
+knitr::include_graphics('imgs/nyc.png')
+```
+
+
+# Seminar 2: People of New York City
+
 
 This is the course website for Seminar 2: People of NYC, taught by [Dr. Matthew Crump](https://crumplab.com) in Spring 2023, for the [Macaulay Honor's program at Brooklyn College of CUNY](https://www.brooklyn.cuny.edu/web/academics/honors-academy/programs/macaulay.php). **This website is currently under development**
 
@@ -22,4 +36,5 @@ engaging in active discussion about those issues.
 -  Present their research to a public audience through a final project that may be completed by small
 groups or the entire class.
 - Critically examine their own roles in and effect on the communities of New York City.
+
 
