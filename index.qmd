@@ -12,9 +12,7 @@ format:
 knitr::include_graphics('imgs/nyc.png')
 ```
 
-
 # Seminar 2: People of New York City
-
 
 This is the course website for Seminar 2: People of NYC, taught by [Dr. Matthew Crump](https://crumplab.com) in Spring 2023, for the [Macaulay Honor's program at Brooklyn College of CUNY](https://www.brooklyn.cuny.edu/web/academics/honors-academy/programs/macaulay.php). **This website is currently under development**
 
@@ -26,15 +24,9 @@ Extensive reading and writing assignments are enriched by visits to neighborhood
 
 **Learning Goals/Outcomes**: Students will:
 
--  Demonstrate a comparative understanding of different populations through research and writing about one or more groups or about an area of the city and its shifting population across time.
-- Use a variety of approaches (e.g. qualitative, quantitative, or experiential) to studying people in order to come to an understanding of the diversity of people's experiences in and of the city.
--  Understand the advantages and disadvantages of different approaches and methodologies used by the
-social sciences.
-- Increase their understanding of past and present issues including colonialism, migration, immigration,
-race, and ethnicity by analyzing a variety of sources (current, historical, primary, secondary) and by
-engaging in active discussion about those issues.
--  Present their research to a public audience through a final project that may be completed by small
-groups or the entire class.
-- Critically examine their own roles in and effect on the communities of New York City.
-
-
+-   Demonstrate a comparative understanding of different populations through research and writing about one or more groups or about an area of the city and its shifting population across time.
+-   Use a variety of approaches (e.g. qualitative, quantitative, or experiential) to studying people in order to come to an understanding of the diversity of people's experiences in and of the city.
+-   Understand the advantages and disadvantages of different approaches and methodologies used by the social sciences.
+-   Increase their understanding of past and present issues including colonialism, migration, immigration, race, and ethnicity by analyzing a variety of sources (current, historical, primary, secondary) and by engaging in active discussion about those issues.
+-   Present their research to a public audience through a final project that may be completed by small groups or the entire class.
+-   Critically examine their own roles in and effect on the communities of New York City.
