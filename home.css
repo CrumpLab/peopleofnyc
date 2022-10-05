@@ -5,3 +5,11 @@
   padding-bottom: 10em;
 }
 
+
+main {
+  margin-top: 0;
+}
+
+#quarto-content > *  {
+  padding-top: 0;
+}
