@@ -2,7 +2,7 @@
 title: "About broadside template"
 about:
   template: broadside
-  image: imgs/crump.png
+  image: imgs/Crump.png
   links:
     - icon: globe
       text: lab website
