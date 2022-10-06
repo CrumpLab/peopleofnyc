@@ -4,6 +4,8 @@ project:
 
 website:
   title: "peopleofnyc"
+  repo-url: https://github.com/CrumpLab/peopleofnyc
+  repo-actions: [edit, issue]
   navbar:
     left:
       - href: index.qmd
@@ -21,6 +23,9 @@ website:
           - example_pages/quarto_about_broadside.qmd
           - example_pages/quarto_none.qmd
           - example_pages/quarto_theme.qmd
+      - icon: github
+        href: https://github.com/CrumpLab/peopleofnyc
+        aria-label: GitHub
       
 format:
   html:
