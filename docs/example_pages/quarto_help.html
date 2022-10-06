@@ -148,6 +148,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <li class="nav-item">
     <a class="nav-link" href="../syllabus.html">Syllabus</a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../project/intro.html">The Remembering Project</a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
@@ -213,6 +216,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <li><a href="#general-tips-and-help" id="toc-general-tips-and-help" class="nav-link active" data-scroll-target="#general-tips-and-help">General tips and help</a></li>
   <li><a href="#text-and-r-code" id="toc-text-and-r-code" class="nav-link" data-scroll-target="#text-and-r-code">Text and R code</a></li>
   <li><a href="#bootstrap-elements" id="toc-bootstrap-elements" class="nav-link" data-scroll-target="#bootstrap-elements">Bootstrap elements</a></li>
+  <li><a href="#multi-column" id="toc-multi-column" class="nav-link" data-scroll-target="#multi-column">Multi-column</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/CrumpLab/peopleofnyc/blob/main/example_pages/quarto_help.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/CrumpLab/peopleofnyc/edit/main/example_pages/quarto_help.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/CrumpLab/peopleofnyc/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -235,7 +239,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 </header>
 
-<p>This course website is created using a suite of open-source tools, including <a href="https://quarto.org">quarto</a>, <a href="https://cran.rstudio.com">R</a>, and <a href="https://www.rstudio.com/products/rstudio/">R-studio</a>. All of the pages are written using quarto markdown, and rendered into this website through Rstudio. The website is hosted on github pages. The source code for this website is also available on github.</p>
+<p>This course website is created using a suite of open-source tools, including <a href="https://quarto.org">quarto</a>, <a href="https://cran.rstudio.com">R</a>, and <a href="https://www.rstudio.com/products/rstudio/">R-studio</a>. All of the pages are written using quarto markdown, and rendered into this website through Rstudio. The website is hosted on github pages. The source code for this website is also available on github. The source code can be accessed by clicking on the github links in the right-side navigation .</p>
 <p>The purpose of this page is to give examples of writing in markdown and .qmd documents.</p>
 <section id="general-tips-and-help" class="level2">
 <h2 class="anchored" data-anchor-id="general-tips-and-help">General tips and help</h2>
@@ -268,6 +272,47 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>The bootstrap 5 component (in this case a text alert). Will be shown in the document:</p>
 <div class="alert alert-primary" role="alert">
 <p>A simple primary alert—check it out!</p>
+</div>
+</section>
+<section id="multi-column" class="level2">
+<h2 class="anchored" data-anchor-id="multi-column">Multi-column</h2>
+<p>It is possible to write text in multiple columns using the Bootstrap CSS grid layout system.</p>
+<p>The markdown below uses [fenced divs](https://quarto.org/docs/authoring/markdown-basics.html#divs-and-spans) to declare two columns.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>::: {.grid}</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>::: {.g-col-4}</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>This column takes 1/3 of the page.</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>some stuff</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>Another thing</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>::: {.g-col-8}</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>This column takes 2/3 of the page</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>some stuff</span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Another thing</span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>:::</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>The multi-column text looks like this on the webpage:</p>
+<div class="grid">
+<div class="g-col-4">
+<p>This column takes 1/3 of the page.</p>
+<ol type="1">
+<li>some stuff</li>
+<li>Another thing</li>
+</ol>
+</div>
+<div class="g-col-8">
+<p>This column takes 2/3 of the page</p>
+<ul>
+<li>some stuff</li>
+<li>Another thing</li>
+</ul>
+</div>
 </div>
 
 

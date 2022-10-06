@@ -14,11 +14,25 @@
     "text": "As of Fall 2022, this website is currently under development."
   },
   {
+    "objectID": "project/intro.html",
+    "href": "project/intro.html",
+    "title": "The Remembering Project",
+    "section": "",
+    "text": "Seminar 2: People of New York City is explored in new ways every semester by cohorts of Macaulay Honors student. General information about seminar 2 is available from the Macaulay e-portfolio site. Many previous versions of the course and their resulting course projects are available from the seminar 2 Encyclopedia."
+  },
+  {
+    "objectID": "project/intro.html#memory",
+    "href": "project/intro.html#memory",
+    "title": "The Remembering Project",
+    "section": "Memory",
+    "text": "Memory\nIn Spring 2023, we will explore seminar 2 through the lens of human memory processes to help us examine how we remember, forget, and tell stories about the spectacularly diverse people of New York City."
+  },
+  {
     "objectID": "example_pages/quarto_help.html",
     "href": "example_pages/quarto_help.html",
     "title": "Quarto Help",
     "section": "",
-    "text": "This course website is created using a suite of open-source tools, including quarto, R, and R-studio. All of the pages are written using quarto markdown, and rendered into this website through Rstudio. The website is hosted on github pages. The source code for this website is also available on github.\nThe purpose of this page is to give examples of writing in markdown and .qmd documents."
+    "text": "This course website is created using a suite of open-source tools, including quarto, R, and R-studio. All of the pages are written using quarto markdown, and rendered into this website through Rstudio. The website is hosted on github pages. The source code for this website is also available on github. The source code can be accessed by clicking on the github links in the right-side navigation .\nThe purpose of this page is to give examples of writing in markdown and .qmd documents."
   },
   {
     "objectID": "example_pages/quarto_help.html#general-tips-and-help",
@@ -40,6 +54,13 @@
     "title": "Quarto Help",
     "section": "Bootstrap elements",
     "text": "Bootstrap elements\nQuarto websites include Bootstrap 5 libraries. As a result, components and other elements from Bootstrap 5 can be placed directly into .qmd files.\nFor example, if the following html is printed directly in a .qmd file\n<div class=\"alert alert-primary\" role=\"alert\">\n  A simple primary alert—check it out!\n</div>\nThe bootstrap 5 component (in this case a text alert). Will be shown in the document:\n\nA simple primary alert—check it out!"
+  },
+  {
+    "objectID": "example_pages/quarto_help.html#multi-column",
+    "href": "example_pages/quarto_help.html#multi-column",
+    "title": "Quarto Help",
+    "section": "Multi-column",
+    "text": "Multi-column\nIt is possible to write text in multiple columns using the Bootstrap CSS grid layout system.\nThe markdown below uses [fenced divs](https://quarto.org/docs/authoring/markdown-basics.html#divs-and-spans) to declare two columns.\n\n::: {.grid}\n\n::: {.g-col-4}\nThis column takes 1/3 of the page.\n\n1. some stuff\n2. Another thing\n:::\n\n::: {.g-col-8}\nThis column takes 2/3 of the page\n\n- some stuff\n- Another thing\n:::\n\n:::\n\nThe multi-column text looks like this on the webpage:\n\n\nThis column takes 1/3 of the page.\n\nsome stuff\nAnother thing\n\n\n\nThis column takes 2/3 of the page\n\nsome stuff\nAnother thing"
   },
   {
     "objectID": "example_pages/quarto_about_jolla.html",

@@ -11,6 +11,8 @@ website:
       - href: index.qmd
         text: Home
       - syllabus.qmd
+      - text: "The Remembering Project"
+        file: project/intro.qmd
     right: 
       - about.qmd
       - text: "Quarto Examples"
@@ -26,6 +28,17 @@ website:
       - icon: github
         href: https://github.com/CrumpLab/peopleofnyc
         aria-label: GitHub
+  sidebar: 
+    - title: "The Remembering Project"
+      style: "docked"
+      contents: 
+        - project/intro.qmd
+        - project/1_chpt.qmd
+        - project/2_chpt.qmd
+        - project/3_chpt.qmd
+        - project/4_chpt.qmd
+        - project/5_chpt.qmd
+    - title: "Quarto Examples"
       
 format:
   html:
