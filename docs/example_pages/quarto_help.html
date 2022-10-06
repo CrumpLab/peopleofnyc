@@ -207,6 +207,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <ul>
   <li><a href="#general-tips-and-help" id="toc-general-tips-and-help" class="nav-link active" data-scroll-target="#general-tips-and-help">General tips and help</a></li>
   <li><a href="#text-and-r-code" id="toc-text-and-r-code" class="nav-link" data-scroll-target="#text-and-r-code">Text and R code</a></li>
+  <li><a href="#bootstrap-elements" id="toc-bootstrap-elements" class="nav-link" data-scroll-target="#bootstrap-elements">Bootstrap elements</a></li>
   </ul>
 </nav>
     </div>
@@ -250,6 +251,18 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div class="cell-output-display">
 <p><img src="quarto_help_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid" width="672"></p>
 </div>
+</div>
+</section>
+<section id="bootstrap-elements" class="level2">
+<h2 class="anchored" data-anchor-id="bootstrap-elements">Bootstrap elements</h2>
+<p>Quarto websites include <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap 5</a> libraries. As a result, <a href="https://getbootstrap.com/docs/5.0/components/accordion/">components</a> and other elements from Bootstrap 5 can be placed directly into .qmd files.</p>
+<p>For example, if the following html is printed directly in a .qmd file</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode html code-with-copy"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;div</span> <span class="er">class</span><span class="ot">=</span><span class="st">"alert alert-primary"</span> <span class="er">role</span><span class="ot">=</span><span class="st">"alert"</span><span class="kw">&gt;</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  A simple primary alert—check it out!</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/div&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>The bootstrap 5 component (in this case a text alert). Will be shown in the document:</p>
+<div class="alert alert-primary" role="alert">
+<p>A simple primary alert—check it out!</p>
 </div>
 
 

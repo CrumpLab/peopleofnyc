@@ -9,7 +9,7 @@ format:
 
 This course website is created using a suite of open-source tools, including [quarto](https://quarto.org), [R](https://cran.rstudio.com), and [R-studio](https://www.rstudio.com/products/rstudio/). All of the pages are written using quarto markdown, and rendered into this website through Rstudio. The website is hosted on github pages. The source code for this website is also available on github.
 
-The purpose of this page is to give examples of writing in markdown and .qmd documents. 
+The purpose of this page is to give examples of writing in markdown and .qmd documents.
 
 ## General tips and help
 
@@ -19,9 +19,9 @@ The quarto approach to document creation is very powerful because it can integra
 
 Most writing is done in plain text using markdown:
 
-  - [markdown basics](https://quarto.org/docs/authoring/markdown-basics.html)
-  - [more markdown basics](https://www.markdownguide.org/basic-syntax/)
-  
+-   [markdown basics](https://quarto.org/docs/authoring/markdown-basics.html)
+-   [more markdown basics](https://www.markdownguide.org/basic-syntax/)
+
 ## Text and R code
 
 This is an example of embedding R code into a .qmd document. The R code snippet is printed to the document. The code is also executed and the output is printed to the document.
@@ -32,4 +32,20 @@ Specifically, this one line of code samples 100 random numbers from a normal dis
 hist(rnorm(100,0,1))
 ```
 
+## Bootstrap elements
 
+Quarto websites include [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) libraries. As a result, [components](https://getbootstrap.com/docs/5.0/components/accordion/) and other elements from Bootstrap 5 can be placed directly into .qmd files.
+
+For example, if the following html is printed directly in a .qmd file
+
+``` html
+<div class="alert alert-primary" role="alert">
+  A simple primary alert—check it out!
+</div>
+```
+
+The bootstrap 5 component (in this case a text alert). Will be shown in the document:
+
+::: {.alert .alert-primary role="alert"}
+A simple primary alert---check it out!
+:::

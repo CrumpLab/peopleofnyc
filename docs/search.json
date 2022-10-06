@@ -35,6 +35,13 @@
     "text": "Text and R code\nThis is an example of embedding R code into a .qmd document. The R code snippet is printed to the document. The code is also executed and the output is printed to the document.\nSpecifically, this one line of code samples 100 random numbers from a normal distribution, and then plots the values in a histogram.\n\nhist(rnorm(100,0,1))"
   },
   {
+    "objectID": "example_pages/quarto_help.html#bootstrap-elements",
+    "href": "example_pages/quarto_help.html#bootstrap-elements",
+    "title": "Quarto Help",
+    "section": "Bootstrap elements",
+    "text": "Bootstrap elements\nQuarto websites include Bootstrap 5 libraries. As a result, components and other elements from Bootstrap 5 can be placed directly into .qmd files.\nFor example, if the following html is printed directly in a .qmd file\n<div class=\"alert alert-primary\" role=\"alert\">\n  A simple primary alert—check it out!\n</div>\nThe bootstrap 5 component (in this case a text alert). Will be shown in the document:\n\nA simple primary alert—check it out!"
+  },
+  {
     "objectID": "example_pages/quarto_about_jolla.html",
     "href": "example_pages/quarto_about_jolla.html",
     "title": "About jolla template",
