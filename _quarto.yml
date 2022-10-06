@@ -5,7 +5,7 @@ project:
 website:
   title: "peopleofnyc"
   repo-url: https://github.com/CrumpLab/peopleofnyc
-  repo-actions: [edit, issue]
+  repo-actions: [source, edit, issue]
   navbar:
     left:
       - href: index.qmd
