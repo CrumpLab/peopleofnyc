@@ -123,7 +123,7 @@
     "href": "example_pages/quarto_theme.html",
     "title": "quarto_theme",
     "section": "",
-    "text": "However, if the global theme for the website is set to none, then different themes can be applied to individual pages.\nFor example, the theme for this website is defined in _quarto.yml as:\nformat:\n  html:\n    theme: none\n    css: css/nav.css\nAnd, the theme for this page is defined in the yml header of this .qmd file as:\nformat: \n  html: \n    theme: minty"
+    "text": "For example, the theme for this website is defined in _quarto.yml as:\nformat:\n  html:\n    theme: cosmo\n    css: css/nav.css\nAnd, the theme for this page is defined in the yml header of this .qmd file as:\nformat: \n  html: \n    theme: minty\nHowever, the minty theme is not overriding the site-wide cosmo theme for this page. Individual pages can be custom themed by including a css file and modifying bootstrap defaults, or by declaring new css classes."
   },
   {
     "objectID": "example_pages/quarto_about_marquee.html",

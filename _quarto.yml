@@ -24,7 +24,7 @@ website:
       
 format:
   html:
-    theme: none
+    theme: cosmo
     css: css/nav.css
 
 editor: visual

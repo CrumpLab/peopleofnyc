@@ -8,14 +8,12 @@ format:
 
 As of this rendering, quarto websites render all pages under the [site-wide bootstrap 5 theme](https://quarto.org/docs/output-formats/html-themes.html), and ignores themes defined for individual pages.
 
-However, if the global theme for the website is set to none, then different themes can be applied to individual pages.
-
 For example, the theme for this website is defined in `_quarto.yml` as:
 
 ``` markdown
 format:
   html:
-    theme: none
+    theme: cosmo
     css: css/nav.css
 ```
 
@@ -26,3 +24,5 @@ format:
   html: 
     theme: minty
 ```
+
+However, the minty theme is not overriding the site-wide cosmo theme for this page. Individual pages can be custom themed by including a css file and modifying bootstrap defaults, or by declaring new css classes.
