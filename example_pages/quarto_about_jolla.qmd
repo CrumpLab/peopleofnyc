@@ -13,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/CrumpLab
+format:
+  html:
+    theme: quartz
 ---
 
 Matt Crump is a cognitive Psychologist with research interests in learning, memory, attention, skill learning, semantics, and computational modeling.
@@ -32,5 +35,3 @@ Assistant Professor - Brooklyn College of CUNY (2011)
 Associate Professor - Brooklyn College of CUNY (2016)
 
 Full Professor - Brooklyn College of CUNY (2022)
-
-

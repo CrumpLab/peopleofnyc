@@ -35,6 +35,69 @@
     "text": "Text and R code\nThis is an example of embedding R code into a .qmd document. The R code snippet is printed to the document. The code is also executed and the output is printed to the document.\nSpecifically, this one line of code samples 100 random numbers from a normal distribution, and then plots the values in a histogram.\n\nhist(rnorm(100,0,1))"
   },
   {
+    "objectID": "example_pages/quarto_about_jolla.html",
+    "href": "example_pages/quarto_about_jolla.html",
+    "title": "About jolla template",
+    "section": "",
+    "text": "Matt Crump is a cognitive Psychologist with research interests in learning, memory, attention, skill learning, semantics, and computational modeling."
+  },
+  {
+    "objectID": "example_pages/quarto_about_jolla.html#education",
+    "href": "example_pages/quarto_about_jolla.html#education",
+    "title": "About jolla template",
+    "section": "Education",
+    "text": "Education\nPostdoc, Vanderbilt University - 2011 (Psychology)\nPh.D., McMaster University - 2007 (Psychology)\nB.Sc., University of Lethbridge - 2002 (Psychology)"
+  },
+  {
+    "objectID": "example_pages/quarto_about_jolla.html#experience",
+    "href": "example_pages/quarto_about_jolla.html#experience",
+    "title": "About jolla template",
+    "section": "Experience",
+    "text": "Experience\nAssistant Professor - Brooklyn College of CUNY (2011)\nAssociate Professor - Brooklyn College of CUNY (2016)\nFull Professor - Brooklyn College of CUNY (2022)"
+  },
+  {
+    "objectID": "example_pages/quarto_about_broadside.html",
+    "href": "example_pages/quarto_about_broadside.html",
+    "title": "About broadside template",
+    "section": "",
+    "text": "Matt Crump is a cognitive Psychologist with research interests in learning, memory, attention, skill learning, semantics, and computational modeling."
+  },
+  {
+    "objectID": "example_pages/quarto_about_broadside.html#education",
+    "href": "example_pages/quarto_about_broadside.html#education",
+    "title": "About broadside template",
+    "section": "Education",
+    "text": "Education\nPostdoc, Vanderbilt University - 2011 (Psychology)\nPh.D., McMaster University - 2007 (Psychology)\nB.Sc., University of Lethbridge - 2002 (Psychology)"
+  },
+  {
+    "objectID": "example_pages/quarto_about_broadside.html#experience",
+    "href": "example_pages/quarto_about_broadside.html#experience",
+    "title": "About broadside template",
+    "section": "Experience",
+    "text": "Experience\nAssistant Professor - Brooklyn College of CUNY (2011)\nAssociate Professor - Brooklyn College of CUNY (2016)\nFull Professor - Brooklyn College of CUNY (2022)"
+  },
+  {
+    "objectID": "example_pages/quarto_about_solana.html",
+    "href": "example_pages/quarto_about_solana.html",
+    "title": "About solana template",
+    "section": "",
+    "text": "Matt Crump is a cognitive Psychologist with research interests in learning, memory, attention, skill learning, semantics, and computational modeling."
+  },
+  {
+    "objectID": "example_pages/quarto_about_solana.html#education",
+    "href": "example_pages/quarto_about_solana.html#education",
+    "title": "About solana template",
+    "section": "Education",
+    "text": "Education\nPostdoc, Vanderbilt University - 2011 (Psychology)\nPh.D., McMaster University - 2007 (Psychology)\nB.Sc., University of Lethbridge - 2002 (Psychology)"
+  },
+  {
+    "objectID": "example_pages/quarto_about_solana.html#experience",
+    "href": "example_pages/quarto_about_solana.html#experience",
+    "title": "About solana template",
+    "section": "Experience",
+    "text": "Experience\nAssistant Professor - Brooklyn College of CUNY (2011)\nAssociate Professor - Brooklyn College of CUNY (2016)\nFull Professor - Brooklyn College of CUNY (2022)"
+  },
+  {
     "objectID": "example_pages/quarto_about_trestles.html",
     "href": "example_pages/quarto_about_trestles.html",
     "title": "About trestles template",
@@ -61,6 +124,27 @@
     "title": "quarto_theme",
     "section": "",
     "text": "However, if the global theme for the website is set to none, then different themes can be applied to individual pages.\nFor example, the theme for this website is defined in _quarto.yml as:\nformat:\n  html:\n    theme: none\n    css: css/nav.css\nAnd, the theme for this page is defined in the yml header of this .qmd file as:\nformat: \n  html: \n    theme: minty"
+  },
+  {
+    "objectID": "example_pages/quarto_about_marquee.html",
+    "href": "example_pages/quarto_about_marquee.html",
+    "title": "About marquee template",
+    "section": "",
+    "text": "Matt Crump is a cognitive Psychologist with research interests in learning, memory, attention, skill learning, semantics, and computational modeling."
+  },
+  {
+    "objectID": "example_pages/quarto_about_marquee.html#education",
+    "href": "example_pages/quarto_about_marquee.html#education",
+    "title": "About marquee template",
+    "section": "Education",
+    "text": "Education\nPostdoc, Vanderbilt University - 2011 (Psychology)\nPh.D., McMaster University - 2007 (Psychology)\nB.Sc., University of Lethbridge - 2002 (Psychology)"
+  },
+  {
+    "objectID": "example_pages/quarto_about_marquee.html#experience",
+    "href": "example_pages/quarto_about_marquee.html#experience",
+    "title": "About marquee template",
+    "section": "Experience",
+    "text": "Experience\nAssistant Professor - Brooklyn College of CUNY (2011)\nAssociate Professor - Brooklyn College of CUNY (2016)\nFull Professor - Brooklyn College of CUNY (2022)"
   },
   {
     "objectID": "syllabus.html",
