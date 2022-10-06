@@ -1,0 +1,13 @@
+/* css styles */
+.dropdown-menu {
+  background-color: rgba(0, 0, 0, .7)
+}
+
+.dropdown-menu a {
+  color: white;
+}
+
+.navbar {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}

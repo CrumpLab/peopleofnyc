@@ -1,0 +1,9 @@
+---
+title: "quarto_none"
+editor: visual
+format: 
+  html: 
+    theme: none
+---
+
+This page is a .qmd rendered with a 'none' theme. No styling is applied, and the navigation is removed.

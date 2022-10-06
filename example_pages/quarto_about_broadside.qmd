@@ -1,0 +1,34 @@
+---
+title: "About broadside template"
+about:
+  template: broadside
+  image: imgs/crump.png
+  links:
+    - icon: globe
+      text: lab website
+      href: https://crumplab.com
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/MattCrumpLab
+    - icon: github
+      text: Github
+      href: https://github.com/CrumpLab
+---
+
+Matt Crump is a cognitive Psychologist with research interests in learning, memory, attention, skill learning, semantics, and computational modeling.
+
+## Education
+
+Postdoc, Vanderbilt University - 2011 (Psychology)
+
+Ph.D., McMaster University - 2007 (Psychology)
+
+B.Sc., University of Lethbridge - 2002 (Psychology)
+
+## Experience
+
+Assistant Professor - Brooklyn College of CUNY (2011)
+
+Associate Professor - Brooklyn College of CUNY (2016)
+
+Full Professor - Brooklyn College of CUNY (2022)

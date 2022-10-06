@@ -1,0 +1,36 @@
+---
+title: "Quarto Help"
+editor: visual
+format:
+  html:
+    theme: cosmo
+    css: css/styles.css
+    toc: true
+---
+
+This course website is created using a suite of open-source tools, including [quarto](https://quarto.org), [R](https://cran.rstudio.com), and [R-studio](https://www.rstudio.com/products/rstudio/). All of the pages are written using quarto markdown, and rendered into this website through Rstudio. The website is hosted on github pages. The source code for this website is also available on github.
+
+The purpose of this page is to give examples of writing in markdown and .qmd documents. 
+
+## General tips and help
+
+See the [quarto](https://quarto.org) documentation website for many examples and general information
+
+The quarto approach to document creation is very powerful because it can integrate regular language together with the inputs and outputs of programming languages, like R or python.
+
+Most writing is done in plain text using markdown:
+
+  - [markdown basics](https://quarto.org/docs/authoring/markdown-basics.html)
+  - [more markdown basics](https://www.markdownguide.org/basic-syntax/)
+  
+## Text and R code
+
+This is an example of embedding R code into a .qmd document. The R code snippet is printed to the document. The code is also executed and the output is printed to the document.
+
+Specifically, this one line of code samples 100 random numbers from a normal distribution, and then plots the values in a histogram.
+
+```{r}
+hist(rnorm(100,0,1))
+```
+
+

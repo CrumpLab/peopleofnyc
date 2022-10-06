@@ -11,10 +11,21 @@ website:
       - syllabus.qmd
     right: 
       - about.qmd
+      - text: "Quarto Examples"
+        menu:
+          - example_pages/quarto_help.qmd
+          - example_pages/quarto_about_trestles.qmd
+          - example_pages/quarto_about_jolla.qmd
+          - example_pages/quarto_about_solana.qmd
+          - example_pages/quarto_about_marquee.qmd
+          - example_pages/quarto_about_broadside.qmd
+          - example_pages/quarto_none.qmd
+          - example_pages/quarto_theme.qmd
       
 format:
   html:
-    theme: quartz
+    theme: none
+    css: css/nav.css
 
 editor: visual
 

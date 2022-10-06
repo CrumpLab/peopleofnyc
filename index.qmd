@@ -2,7 +2,8 @@
 title: " "
 format:
   html: 
-    css: home.css
+    theme: quartz
+    css: css/home.css
     fontcolor: white
     page-layout: full
 ---

@@ -3,14 +3,210 @@ title: "Syllabus"
 editor: visual
 format:
   html:
-    css: styles.css
+    theme: cosmo
+    css: css/styles.css
     toc: true
 ---
 
-This is the syllabus. Here is a bunch of text, let's see if other theme changes are respected on this page? this should be enough text to wrap around the page.
+### Seminar 2: People of New York City
 
-## This is a heading
+:::{.callout-important}
+## Under construction
 
-THis is some text
+This syllabus is under construction until Spring 2023
+:::
 
-## another heading
+
+
+
+Spring 2023
+
+Section: TBD
+
+Time: 3:40pm - 4:55pm, Monday and Wednesday
+
+Location: TBD
+
+Office Hours: TBA (zoom link posted on Blackboard)
+
+Instructor:  [Dr. Matthew Crump](https://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=1059)
+
+Email: mcrump@brooklyn.cuny.edu (please put ''seminar 2' in subject line)
+
+## Course Description
+
+Seminar 2: People of New York City
+
+3 hours; 3 credits
+
+**Catalogue Description**: In this seminar, students use tools from the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Extensive reading and writing assignments are enriched by visits to neighborhoods, museums and historical and cultural sites across the city.
+
+**Course Description**: In this seminar, students use the tools of the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Seminar topics include: the experiences of Indigenous and enslaved populations; the ongoing consequences of settler colonialism; the ways in which culture, class, religion, race, gender, ethnicity, xenophobia, and racism have shaped New Yorkers' experiences with and within the city; the formation and social organization of New York's communities; the impact of successive waves of newcomers to the city on urban culture and politics; and the continuing debates over assimilation, cultural retention, and "Americanization."
+
+Extensive reading and writing assignments are enriched by visits to neighborhoods, museums, and historical and cultural sites across the city and the use of demographic, population and other quantitative data as well as qualitative approaches. All classes create public-facing final projects, documenting their research and presenting an aspect of New York City's diversity.
+
+### Learning Goals/Outcomes 
+
+Students will:
+
+- Demonstrate a comparative understanding of different populations through research and writing about one or more groups or about an area of the city and its shifting population across time.
+
+- Use a variety of approaches (e.g. qualitative, quantitative, or experiential) to studying people in order to come to an understanding of the diversity of people's experiences in and of the city.
+
+- Understand the advantages and disadvantages of different approaches and methodologies used by the social sciences.
+
+- Increase their understanding of past and present issues including colonialism, migration, immigration, race, and ethnicity by analyzing a variety of sources (current, historical, primary, secondary) and by engaging in active discussion about those issues.
+
+- Present their research to a public audience through a final project that may be completed by small groups or the entire class.
+
+- Critically examine their own roles in and effect on the communities of New York City.
+
+
+## Course Materials
+
+All of the course materials will be available in a timely fashion on this course website and/or posted on blackboard.
+
+Link to the course website:
+<https://www.crumplab.com/peopleofnyc/>
+
+
+## Course Structure
+
+There are 15 weeks.
+
+This is an **in-person** class, and students are expected to participate in all aspects of the class.
+
+## Course Schedule
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=FALSE}
+#library(data.table)
+library(readxl)
+Lectures <- read_excel("Fall_2022_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
+Lectures$Week <- as.character(Lectures$Week)
+Lectures[is.na(Lectures)] <- " "
+#Lectures <- fread("Lectures.csv")
+knitr::kable(Lectures)
+
+```
+
+## Assignments, Assessments, and Grading
+
+<!--
+There are multiple ways for students to engage with course materials and achieve their desired grade. Students are encouraged to choose the assignments that work best for them. Major course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.
+
+-->
+
+### Assignments
+
+
+### Discussion Boards
+
+
+### Assessments
+
+### Points and letter grades
+
+| Assignment |  Points| Total|
+|:----------|--------:|-------:|
+| 12 Weekly Modules | 5+ | up to 75|
+| Assessment 1 | 5 | 5 |
+| Assessment 2 | 10 | 10 |
+| Final Assessment | 10  | 10|
+|||100|
+
+Percentage grades are converted to letter grades according to the following rubric.
+
+|Letter grade|Range|
+|:--|:--|
+|A+	|96.67-100|
+|A	|93.33-96.66|
+|A-	|90-93.32|
+|B+	|86.67-89.99|
+|B	|83.33-86.66|
+|B-	|80-83.32|
+|C+	|76.67-79.99|
+|C	|73-76.66|
+|C-	|70-72.99|
+|D+	|66.67-69.99|
+|D	|63.33-66.66|
+|D-	|60-63.32|
+|F	|0-59.99|
+
+## Attendance
+
+Students are expected to attend and participate in each class. 
+
+## Course Policies
+
+### Due dates
+
+Due dates are suggestions for completing coursework on a weekly basis. You may be able to work ahead, but you are not encouraged to fall behind.
+
+You should email me if you have an exceptional circumstance preventing you from taking an assessment during an assessment week.
+
+### Changes to the syllabus
+
+The syllabus may be updated for clarity or to make adjustments for pedagogical purposes. The most current version of the syllabus is always available from the course website.
+
+### Missing an Exam
+
+In the event of an emergency, contact me as soon as possible. If you are missing an exam for religious reasons refer to the state law regarding non-attendance because of religious beliefs noted in the front matter of the Undergraduate Bulletin and Graduate Bulletin. These may be found on the Academic Calendars, Course Schedules, and Bulletins page of the Registrar’s website. See also the student bereavement policy at <http://www.brooklyn.cuny.edu/web/about/initiatives/policies/bereavement.php>.
+
+---
+
+### Accessibility
+
+In order to receive disability-related academic accommodations students must first be registered with the Center for Student Disability Services. Students who have a documented disability or suspect they may have a disability are invited to set up an appointment with the Director of the Center for Student Disability Services, at 718-951-5538. If you have already registered with the Center for Student Disability Services, please provide your professor with the course accommodation form and discuss your specific accommodation with him/her.
+
+---
+
+### Email Correspondence
+
+I will regularly use e-mail via blackboard to send out announcements, changes in the syllabus, reminders about tests or due dates etc. It is your responsibility to check e-mail regularly to keep up-to-date with these announcements. I will use the e-mail address you have listed with the College. Therefore, please make sure that this is indeed the correct address.
+
+If you have questions please email me:
+
+1. put Seminar 2 in your subject line
+2. email me at: mcrump@brooklyn.cuny.edu
+
+### General Help with Research and Writing
+
+The Library maintains a collection of links to sites that can assist you with proper citation format and paraphrasing and quoting other authors at [Research & Writing Help](https://library.brooklyn.cuny.edu/resources/?service=research-help).  The Learning Center has writing tutors available to help you with your writing [http://lc.brooklyn.cuny.edu/](http://lc.brooklyn.cuny.edu/).
+
+The best learning is done in conversation with others, whether they are people—classmates, teachers, friends—or texts—books, articles, essays, poems, films etc. It should not be a solitary process. However, the assignments that you hand in for this course must be done on your own, should represent your own thinking, and should be original work that you have done for this particular course. A good way to balance these two seemingly contradictory approaches (collaborative learning and original individually-produced work) without knowingly—or, even unwittingly—resorting to plagiarism or other forms of academic misconduct is to learn and meticulously observe the rules for citing the work of others (this could be the great point your roommate made that you used in your paper, it could be a well-turned phrase from an academic essay, or it could be anything in between). It is your responsibility to learn what constitutes plagiarism and the correct rules for citing sources—read the information on the following website carefully: [http://www.brooklyn.cuny.edu/bc/policies/](http://www.brooklyn.cuny.edu/bc/policies/). The bottom line is: passing off anyone’s words or ideas as your own for any reason whatsoever is plagiarism.
+
+## Violations of Academic integrity
+
+It is the responsibility of each student to understand and act in accordance with the University's policy on Academic Integrity, described below.
+
+### University’s policy on Academic Integrity
+
+The faculty and administration of Brooklyn College support an environment free from cheating and plagiarism. Each student is responsible for being aware of what constitutes cheating and plagiarism and for avoiding both. The complete text of the CUNY Academic Integrity Policy and the Brooklyn College procedure for implementing that policy can be found at [this site](http://www.brooklyn.cuny.edu/web/about/initiatives.php). If a faculty member suspects a violation of academic integrity and, upon investigation, confirms that violation, or if the student admits the violation, the faculty member MUST report the violation.
+
+### FYI on cheating etc.
+
+Remember, you are responsible for not cheating or violating CUNY's  [Academic Integrity Policy](http://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/). You are responsible for understanding that policy, and for conducting yourself in a manner such that you do not violate the policy.
+
+The above link lists many examples of cheating and plagiarism that are not allowed. There are many more specific acts that you should NOT do. Here is an additional list of activities that will be sufficient cause for immediate failure in the course.
+
+- Do not take pictures of exam or quiz questions and share them with other students
+- Do not give other students answers during an exam or quiz, or any other assignment that is an individual assignment
+- Do not copy work from another source and submit it as your own
+- Do not copy and paste text from the internet and submit it as your own words
+- Do not copy and paste text and slightly alter wording to pass the work off as your own
+- Do not hire someone else to do the coursework for you
+- Do not copy and paste text into a paraphrasing app, and then submit the output of the paraphrasing app as your own work
+- Do not copy random words from the internet that have nothing to do with the assignment and submit them as your own work.
+- Do not work on individual assignments with other students, share answers or other material, and then all hand in versions of the same thing that are slightly different.
+- Do not plagiarize yourself by submitting work that you have previously completed in another class.
+
+### Mandate to report violations
+
+If a faculty member suspects a violation of academic integrity and, upon investigation, confirms that violation, or if the student admits the violation, the faculty member MUST report the violation. Students should be aware that faculty may use plagiarism detection software.
+
+There is no excuse for cheating. Students who are caught cheating may receive a failing grade for the entire course. All students who violate the academic integrity will receive a Faculty Action Report, which will go on their personal file at the Academic Integrity Office.
+
+## FAQ
+
+If you have questions about the syllabus, let's talk about it in class, and/or please create a thread to discuss the question on the discussion board for this course on Blackboard.
+

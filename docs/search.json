@@ -14,24 +14,122 @@
     "text": "As of Fall 2022, this website is currently under development."
   },
   {
+    "objectID": "example_pages/quarto_help.html",
+    "href": "example_pages/quarto_help.html",
+    "title": "Quarto Help",
+    "section": "",
+    "text": "This course website is created using a suite of open-source tools, including quarto, R, and R-studio. All of the pages are written using quarto markdown, and rendered into this website through Rstudio. The website is hosted on github pages. The source code for this website is also available on github.\nThe purpose of this page is to give examples of writing in markdown and .qmd documents."
+  },
+  {
+    "objectID": "example_pages/quarto_help.html#general-tips-and-help",
+    "href": "example_pages/quarto_help.html#general-tips-and-help",
+    "title": "Quarto Help",
+    "section": "General tips and help",
+    "text": "General tips and help\nSee the quarto documentation website for many examples and general information\nThe quarto approach to document creation is very powerful because it can integrate regular language together with the inputs and outputs of programming languages, like R or python.\nMost writing is done in plain text using markdown:\n\nmarkdown basics\nmore markdown basics"
+  },
+  {
+    "objectID": "example_pages/quarto_help.html#text-and-r-code",
+    "href": "example_pages/quarto_help.html#text-and-r-code",
+    "title": "Quarto Help",
+    "section": "Text and R code",
+    "text": "Text and R code\nThis is an example of embedding R code into a .qmd document. The R code snippet is printed to the document. The code is also executed and the output is printed to the document.\nSpecifically, this one line of code samples 100 random numbers from a normal distribution, and then plots the values in a histogram.\n\nhist(rnorm(100,0,1))"
+  },
+  {
+    "objectID": "example_pages/quarto_about_trestles.html",
+    "href": "example_pages/quarto_about_trestles.html",
+    "title": "About trestles template",
+    "section": "",
+    "text": "Matt Crump is a cognitive Psychologist with research interests in learning, memory, attention, skill learning, semantics, and computational modeling."
+  },
+  {
+    "objectID": "example_pages/quarto_about_trestles.html#education",
+    "href": "example_pages/quarto_about_trestles.html#education",
+    "title": "About trestles template",
+    "section": "Education",
+    "text": "Education\nPostdoc, Vanderbilt University - 2011 (Psychology)\nPh.D., McMaster University - 2007 (Psychology)\nB.Sc., University of Lethbridge - 2002 (Psychology)"
+  },
+  {
+    "objectID": "example_pages/quarto_about_trestles.html#experience",
+    "href": "example_pages/quarto_about_trestles.html#experience",
+    "title": "About trestles template",
+    "section": "Experience",
+    "text": "Experience\nAssistant Professor - Brooklyn College of CUNY (2011)\nAssociate Professor - Brooklyn College of CUNY (2016)\nFull Professor - Brooklyn College of CUNY (2022)"
+  },
+  {
+    "objectID": "example_pages/quarto_theme.html",
+    "href": "example_pages/quarto_theme.html",
+    "title": "quarto_theme",
+    "section": "",
+    "text": "However, if the global theme for the website is set to none, then different themes can be applied to individual pages.\nFor example, the theme for this website is defined in _quarto.yml as:\nformat:\n  html:\n    theme: none\n    css: css/nav.css\nAnd, the theme for this page is defined in the yml header of this .qmd file as:\nformat: \n  html: \n    theme: minty"
+  },
+  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "This is the syllabus. Here is a bunch of text, let’s see if other theme changes are respected on this page? this should be enough text to wrap around the page."
+    "text": "Under construction\n\n\n\nThis syllabus is under construction until Spring 2023\n\n\nSpring 2023\nSection: TBD\nTime: 3:40pm - 4:55pm, Monday and Wednesday\nLocation: TBD\nOffice Hours: TBA (zoom link posted on Blackboard)\nInstructor: Dr. Matthew Crump\nEmail: mcrump@brooklyn.cuny.edu (please put ‘’seminar 2’ in subject line)"
   },
   {
-    "objectID": "syllabus.html#this-is-a-heading",
-    "href": "syllabus.html#this-is-a-heading",
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
     "title": "Syllabus",
-    "section": "This is a heading",
-    "text": "This is a heading\nTHis is some text"
+    "section": "Course Description",
+    "text": "Course Description\nSeminar 2: People of New York City\n3 hours; 3 credits\nCatalogue Description: In this seminar, students use tools from the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Extensive reading and writing assignments are enriched by visits to neighborhoods, museums and historical and cultural sites across the city.\nCourse Description: In this seminar, students use the tools of the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Seminar topics include: the experiences of Indigenous and enslaved populations; the ongoing consequences of settler colonialism; the ways in which culture, class, religion, race, gender, ethnicity, xenophobia, and racism have shaped New Yorkers’ experiences with and within the city; the formation and social organization of New York’s communities; the impact of successive waves of newcomers to the city on urban culture and politics; and the continuing debates over assimilation, cultural retention, and “Americanization.”\nExtensive reading and writing assignments are enriched by visits to neighborhoods, museums, and historical and cultural sites across the city and the use of demographic, population and other quantitative data as well as qualitative approaches. All classes create public-facing final projects, documenting their research and presenting an aspect of New York City’s diversity.\n\nLearning Goals/Outcomes\nStudents will:\n\nDemonstrate a comparative understanding of different populations through research and writing about one or more groups or about an area of the city and its shifting population across time.\nUse a variety of approaches (e.g. qualitative, quantitative, or experiential) to studying people in order to come to an understanding of the diversity of people’s experiences in and of the city.\nUnderstand the advantages and disadvantages of different approaches and methodologies used by the social sciences.\nIncrease their understanding of past and present issues including colonialism, migration, immigration, race, and ethnicity by analyzing a variety of sources (current, historical, primary, secondary) and by engaging in active discussion about those issues.\nPresent their research to a public audience through a final project that may be completed by small groups or the entire class.\nCritically examine their own roles in and effect on the communities of New York City."
   },
   {
-    "objectID": "syllabus.html#another-heading",
-    "href": "syllabus.html#another-heading",
+    "objectID": "syllabus.html#course-materials",
+    "href": "syllabus.html#course-materials",
     "title": "Syllabus",
-    "section": "another heading",
-    "text": "another heading"
+    "section": "Course Materials",
+    "text": "Course Materials\nAll of the course materials will be available in a timely fashion on this course website and/or posted on blackboard.\nLink to the course website: https://www.crumplab.com/peopleofnyc/"
+  },
+  {
+    "objectID": "syllabus.html#course-structure",
+    "href": "syllabus.html#course-structure",
+    "title": "Syllabus",
+    "section": "Course Structure",
+    "text": "Course Structure\nThere are 15 weeks.\nThis is an in-person class, and students are expected to participate in all aspects of the class."
+  },
+  {
+    "objectID": "syllabus.html#course-schedule",
+    "href": "syllabus.html#course-schedule",
+    "title": "Syllabus",
+    "section": "Course Schedule",
+    "text": "Course Schedule"
+  },
+  {
+    "objectID": "syllabus.html#assignments-assessments-and-grading",
+    "href": "syllabus.html#assignments-assessments-and-grading",
+    "title": "Syllabus",
+    "section": "Assignments, Assessments, and Grading",
+    "text": "Assignments, Assessments, and Grading\n\n\nAssignments\n\n\nDiscussion Boards\n\n\nAssessments\n\n\nPoints and letter grades\n\n\n\nAssignment\nPoints\nTotal\n\n\n\n\n12 Weekly Modules\n5+\nup to 75\n\n\nAssessment 1\n5\n5\n\n\nAssessment 2\n10\n10\n\n\nFinal Assessment\n10\n10\n\n\n\n\n100\n\n\n\nPercentage grades are converted to letter grades according to the following rubric.\n\n\n\nLetter grade\nRange\n\n\n\n\nA+\n96.67-100\n\n\nA\n93.33-96.66\n\n\nA-\n90-93.32\n\n\nB+\n86.67-89.99\n\n\nB\n83.33-86.66\n\n\nB-\n80-83.32\n\n\nC+\n76.67-79.99\n\n\nC\n73-76.66\n\n\nC-\n70-72.99\n\n\nD+\n66.67-69.99\n\n\nD\n63.33-66.66\n\n\nD-\n60-63.32\n\n\nF\n0-59.99"
+  },
+  {
+    "objectID": "syllabus.html#attendance",
+    "href": "syllabus.html#attendance",
+    "title": "Syllabus",
+    "section": "Attendance",
+    "text": "Attendance\nStudents are expected to attend and participate in each class."
+  },
+  {
+    "objectID": "syllabus.html#course-policies",
+    "href": "syllabus.html#course-policies",
+    "title": "Syllabus",
+    "section": "Course Policies",
+    "text": "Course Policies\n\nDue dates\nDue dates are suggestions for completing coursework on a weekly basis. You may be able to work ahead, but you are not encouraged to fall behind.\nYou should email me if you have an exceptional circumstance preventing you from taking an assessment during an assessment week.\n\n\nChanges to the syllabus\nThe syllabus may be updated for clarity or to make adjustments for pedagogical purposes. The most current version of the syllabus is always available from the course website.\n\n\nMissing an Exam\nIn the event of an emergency, contact me as soon as possible. If you are missing an exam for religious reasons refer to the state law regarding non-attendance because of religious beliefs noted in the front matter of the Undergraduate Bulletin and Graduate Bulletin. These may be found on the Academic Calendars, Course Schedules, and Bulletins page of the Registrar’s website. See also the student bereavement policy at http://www.brooklyn.cuny.edu/web/about/initiatives/policies/bereavement.php.\n\n\n\nAccessibility\nIn order to receive disability-related academic accommodations students must first be registered with the Center for Student Disability Services. Students who have a documented disability or suspect they may have a disability are invited to set up an appointment with the Director of the Center for Student Disability Services, at 718-951-5538. If you have already registered with the Center for Student Disability Services, please provide your professor with the course accommodation form and discuss your specific accommodation with him/her.\n\n\n\nEmail Correspondence\nI will regularly use e-mail via blackboard to send out announcements, changes in the syllabus, reminders about tests or due dates etc. It is your responsibility to check e-mail regularly to keep up-to-date with these announcements. I will use the e-mail address you have listed with the College. Therefore, please make sure that this is indeed the correct address.\nIf you have questions please email me:\n\nput Seminar 2 in your subject line\nemail me at: mcrump@brooklyn.cuny.edu\n\n\n\nGeneral Help with Research and Writing\nThe Library maintains a collection of links to sites that can assist you with proper citation format and paraphrasing and quoting other authors at Research & Writing Help. The Learning Center has writing tutors available to help you with your writing http://lc.brooklyn.cuny.edu/.\nThe best learning is done in conversation with others, whether they are people—classmates, teachers, friends—or texts—books, articles, essays, poems, films etc. It should not be a solitary process. However, the assignments that you hand in for this course must be done on your own, should represent your own thinking, and should be original work that you have done for this particular course. A good way to balance these two seemingly contradictory approaches (collaborative learning and original individually-produced work) without knowingly—or, even unwittingly—resorting to plagiarism or other forms of academic misconduct is to learn and meticulously observe the rules for citing the work of others (this could be the great point your roommate made that you used in your paper, it could be a well-turned phrase from an academic essay, or it could be anything in between). It is your responsibility to learn what constitutes plagiarism and the correct rules for citing sources—read the information on the following website carefully: http://www.brooklyn.cuny.edu/bc/policies/. The bottom line is: passing off anyone’s words or ideas as your own for any reason whatsoever is plagiarism."
+  },
+  {
+    "objectID": "syllabus.html#violations-of-academic-integrity",
+    "href": "syllabus.html#violations-of-academic-integrity",
+    "title": "Syllabus",
+    "section": "Violations of Academic integrity",
+    "text": "Violations of Academic integrity\nIt is the responsibility of each student to understand and act in accordance with the University’s policy on Academic Integrity, described below.\n\nUniversity’s policy on Academic Integrity\nThe faculty and administration of Brooklyn College support an environment free from cheating and plagiarism. Each student is responsible for being aware of what constitutes cheating and plagiarism and for avoiding both. The complete text of the CUNY Academic Integrity Policy and the Brooklyn College procedure for implementing that policy can be found at this site. If a faculty member suspects a violation of academic integrity and, upon investigation, confirms that violation, or if the student admits the violation, the faculty member MUST report the violation.\n\n\nFYI on cheating etc.\nRemember, you are responsible for not cheating or violating CUNY’s Academic Integrity Policy. You are responsible for understanding that policy, and for conducting yourself in a manner such that you do not violate the policy.\nThe above link lists many examples of cheating and plagiarism that are not allowed. There are many more specific acts that you should NOT do. Here is an additional list of activities that will be sufficient cause for immediate failure in the course.\n\nDo not take pictures of exam or quiz questions and share them with other students\nDo not give other students answers during an exam or quiz, or any other assignment that is an individual assignment\nDo not copy work from another source and submit it as your own\nDo not copy and paste text from the internet and submit it as your own words\nDo not copy and paste text and slightly alter wording to pass the work off as your own\nDo not hire someone else to do the coursework for you\nDo not copy and paste text into a paraphrasing app, and then submit the output of the paraphrasing app as your own work\nDo not copy random words from the internet that have nothing to do with the assignment and submit them as your own work.\nDo not work on individual assignments with other students, share answers or other material, and then all hand in versions of the same thing that are slightly different.\nDo not plagiarize yourself by submitting work that you have previously completed in another class.\n\n\n\nMandate to report violations\nIf a faculty member suspects a violation of academic integrity and, upon investigation, confirms that violation, or if the student admits the violation, the faculty member MUST report the violation. Students should be aware that faculty may use plagiarism detection software.\nThere is no excuse for cheating. Students who are caught cheating may receive a failing grade for the entire course. All students who violate the academic integrity will receive a Faculty Action Report, which will go on their personal file at the Academic Integrity Office."
+  },
+  {
+    "objectID": "syllabus.html#faq",
+    "href": "syllabus.html#faq",
+    "title": "Syllabus",
+    "section": "FAQ",
+    "text": "FAQ\nIf you have questions about the syllabus, let’s talk about it in class, and/or please create a thread to discuss the question on the discussion board for this course on Blackboard."
   }
 ]

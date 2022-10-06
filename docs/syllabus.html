@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.37">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -55,7 +60,8 @@ ul.task-list{list-style: none;}
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="css/nav.css">
+<link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -64,9 +70,11 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">peopleofnyc</span>
-  </a>
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -83,6 +91,43 @@ ul.task-list{list-style: none;}
   <li class="nav-item">
     <a class="nav-link" href="./about.html">About</a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-quarto-examples" role="button" data-bs-toggle="dropdown" aria-expanded="false">Quarto Examples</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-quarto-examples">    
+        <li>
+    <a class="dropdown-item" href="./example_pages/quarto_help.html">
+ <span class="dropdown-text">Quarto Help</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./example_pages/quarto_about_trestles.html">
+ <span class="dropdown-text">About trestles template</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./example_pages/quarto_about_jolla.html">
+ <span class="dropdown-text">About jolla template</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./example_pages/quarto_about_solana.html">
+ <span class="dropdown-text">About solana template</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./example_pages/quarto_about_marquee.html">
+ <span class="dropdown-text">About marquee template</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./example_pages/quarto_about_broadside.html">
+ <span class="dropdown-text">About broadside template</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./example_pages/quarto_none.html">
+ <span class="dropdown-text">quarto_none</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./example_pages/quarto_theme.html">
+ <span class="dropdown-text">quarto_theme</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -94,12 +139,42 @@ ul.task-list{list-style: none;}
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#this-is-a-heading" id="toc-this-is-a-heading" class="nav-link active" data-scroll-target="#this-is-a-heading">This is a heading</a></li>
-  <li><a href="#another-heading" id="toc-another-heading" class="nav-link" data-scroll-target="#another-heading">another heading</a></li>
+  <li><a href="#seminar-2-people-of-new-york-city" id="toc-seminar-2-people-of-new-york-city" class="nav-link active" data-scroll-target="#seminar-2-people-of-new-york-city">Seminar 2: People of New York City</a></li>
+  <li><a href="#course-description" id="toc-course-description" class="nav-link" data-scroll-target="#course-description">Course Description</a>
+  <ul class="collapse">
+  <li><a href="#learning-goalsoutcomes" id="toc-learning-goalsoutcomes" class="nav-link" data-scroll-target="#learning-goalsoutcomes">Learning Goals/Outcomes</a></li>
+  </ul></li>
+  <li><a href="#course-materials" id="toc-course-materials" class="nav-link" data-scroll-target="#course-materials">Course Materials</a></li>
+  <li><a href="#course-structure" id="toc-course-structure" class="nav-link" data-scroll-target="#course-structure">Course Structure</a></li>
+  <li><a href="#course-schedule" id="toc-course-schedule" class="nav-link" data-scroll-target="#course-schedule">Course Schedule</a></li>
+  <li><a href="#assignments-assessments-and-grading" id="toc-assignments-assessments-and-grading" class="nav-link" data-scroll-target="#assignments-assessments-and-grading">Assignments, Assessments, and Grading</a>
+  <ul class="collapse">
+  <li><a href="#assignments" id="toc-assignments" class="nav-link" data-scroll-target="#assignments">Assignments</a></li>
+  <li><a href="#discussion-boards" id="toc-discussion-boards" class="nav-link" data-scroll-target="#discussion-boards">Discussion Boards</a></li>
+  <li><a href="#assessments" id="toc-assessments" class="nav-link" data-scroll-target="#assessments">Assessments</a></li>
+  <li><a href="#points-and-letter-grades" id="toc-points-and-letter-grades" class="nav-link" data-scroll-target="#points-and-letter-grades">Points and letter grades</a></li>
+  </ul></li>
+  <li><a href="#attendance" id="toc-attendance" class="nav-link" data-scroll-target="#attendance">Attendance</a></li>
+  <li><a href="#course-policies" id="toc-course-policies" class="nav-link" data-scroll-target="#course-policies">Course Policies</a>
+  <ul class="collapse">
+  <li><a href="#due-dates" id="toc-due-dates" class="nav-link" data-scroll-target="#due-dates">Due dates</a></li>
+  <li><a href="#changes-to-the-syllabus" id="toc-changes-to-the-syllabus" class="nav-link" data-scroll-target="#changes-to-the-syllabus">Changes to the syllabus</a></li>
+  <li><a href="#missing-an-exam" id="toc-missing-an-exam" class="nav-link" data-scroll-target="#missing-an-exam">Missing an Exam</a></li>
+  <li><a href="#accessibility" id="toc-accessibility" class="nav-link" data-scroll-target="#accessibility">Accessibility</a></li>
+  <li><a href="#email-correspondence" id="toc-email-correspondence" class="nav-link" data-scroll-target="#email-correspondence">Email Correspondence</a></li>
+  <li><a href="#general-help-with-research-and-writing" id="toc-general-help-with-research-and-writing" class="nav-link" data-scroll-target="#general-help-with-research-and-writing">General Help with Research and Writing</a></li>
+  </ul></li>
+  <li><a href="#violations-of-academic-integrity" id="toc-violations-of-academic-integrity" class="nav-link" data-scroll-target="#violations-of-academic-integrity">Violations of Academic integrity</a>
+  <ul class="collapse">
+  <li><a href="#universitys-policy-on-academic-integrity" id="toc-universitys-policy-on-academic-integrity" class="nav-link" data-scroll-target="#universitys-policy-on-academic-integrity">University’s policy on Academic Integrity</a></li>
+  <li><a href="#fyi-on-cheating-etc." id="toc-fyi-on-cheating-etc." class="nav-link" data-scroll-target="#fyi-on-cheating-etc.">FYI on cheating etc.</a></li>
+  <li><a href="#mandate-to-report-violations" id="toc-mandate-to-report-violations" class="nav-link" data-scroll-target="#mandate-to-report-violations">Mandate to report violations</a></li>
+  </ul></li>
+  <li><a href="#faq" id="toc-faq" class="nav-link" data-scroll-target="#faq">FAQ</a></li>
   </ul>
 </nav>
     </div>
@@ -122,13 +197,256 @@ ul.task-list{list-style: none;}
 
 </header>
 
-<p>This is the syllabus. Here is a bunch of text, let’s see if other theme changes are respected on this page? this should be enough text to wrap around the page.</p>
-<section id="this-is-a-heading" class="level2">
-<h2 class="anchored" data-anchor-id="this-is-a-heading">This is a heading</h2>
-<p>THis is some text</p>
+<section id="seminar-2-people-of-new-york-city" class="level3">
+<h3 class="anchored" data-anchor-id="seminar-2-people-of-new-york-city">Seminar 2: People of New York City</h3>
+<div class="callout-important callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Under construction
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This syllabus is under construction until Spring 2023</p>
+</div>
+</div>
+<p>Spring 2023</p>
+<p>Section: TBD</p>
+<p>Time: 3:40pm - 4:55pm, Monday and Wednesday</p>
+<p>Location: TBD</p>
+<p>Office Hours: TBA (zoom link posted on Blackboard)</p>
+<p>Instructor: <a href="https://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=1059">Dr.&nbsp;Matthew Crump</a></p>
+<p>Email: mcrump@brooklyn.cuny.edu (please put ‘’seminar 2’ in subject line)</p>
 </section>
-<section id="another-heading" class="level2">
-<h2 class="anchored" data-anchor-id="another-heading">another heading</h2>
+<section id="course-description" class="level2">
+<h2 class="anchored" data-anchor-id="course-description">Course Description</h2>
+<p>Seminar 2: People of New York City</p>
+<p>3 hours; 3 credits</p>
+<p><strong>Catalogue Description</strong>: In this seminar, students use tools from the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Extensive reading and writing assignments are enriched by visits to neighborhoods, museums and historical and cultural sites across the city.</p>
+<p><strong>Course Description</strong>: In this seminar, students use the tools of the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Seminar topics include: the experiences of Indigenous and enslaved populations; the ongoing consequences of settler colonialism; the ways in which culture, class, religion, race, gender, ethnicity, xenophobia, and racism have shaped New Yorkers’ experiences with and within the city; the formation and social organization of New York’s communities; the impact of successive waves of newcomers to the city on urban culture and politics; and the continuing debates over assimilation, cultural retention, and “Americanization.”</p>
+<p>Extensive reading and writing assignments are enriched by visits to neighborhoods, museums, and historical and cultural sites across the city and the use of demographic, population and other quantitative data as well as qualitative approaches. All classes create public-facing final projects, documenting their research and presenting an aspect of New York City’s diversity.</p>
+<section id="learning-goalsoutcomes" class="level3">
+<h3 class="anchored" data-anchor-id="learning-goalsoutcomes">Learning Goals/Outcomes</h3>
+<p>Students will:</p>
+<ul>
+<li><p>Demonstrate a comparative understanding of different populations through research and writing about one or more groups or about an area of the city and its shifting population across time.</p></li>
+<li><p>Use a variety of approaches (e.g.&nbsp;qualitative, quantitative, or experiential) to studying people in order to come to an understanding of the diversity of people’s experiences in and of the city.</p></li>
+<li><p>Understand the advantages and disadvantages of different approaches and methodologies used by the social sciences.</p></li>
+<li><p>Increase their understanding of past and present issues including colonialism, migration, immigration, race, and ethnicity by analyzing a variety of sources (current, historical, primary, secondary) and by engaging in active discussion about those issues.</p></li>
+<li><p>Present their research to a public audience through a final project that may be completed by small groups or the entire class.</p></li>
+<li><p>Critically examine their own roles in and effect on the communities of New York City.</p></li>
+</ul>
+</section>
+</section>
+<section id="course-materials" class="level2">
+<h2 class="anchored" data-anchor-id="course-materials">Course Materials</h2>
+<p>All of the course materials will be available in a timely fashion on this course website and/or posted on blackboard.</p>
+<p>Link to the course website: <a href="https://www.crumplab.com/peopleofnyc/" class="uri">https://www.crumplab.com/peopleofnyc/</a></p>
+</section>
+<section id="course-structure" class="level2">
+<h2 class="anchored" data-anchor-id="course-structure">Course Structure</h2>
+<p>There are 15 weeks.</p>
+<p>This is an <strong>in-person</strong> class, and students are expected to participate in all aspects of the class.</p>
+</section>
+<section id="course-schedule" class="level2">
+<h2 class="anchored" data-anchor-id="course-schedule">Course Schedule</h2>
+<div class="cell">
+
+</div>
+</section>
+<section id="assignments-assessments-and-grading" class="level2">
+<h2 class="anchored" data-anchor-id="assignments-assessments-and-grading">Assignments, Assessments, and Grading</h2>
+<!--
+There are multiple ways for students to engage with course materials and achieve their desired grade. Students are encouraged to choose the assignments that work best for them. Major course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.
+
+-->
+<section id="assignments" class="level3">
+<h3 class="anchored" data-anchor-id="assignments">Assignments</h3>
+</section>
+<section id="discussion-boards" class="level3">
+<h3 class="anchored" data-anchor-id="discussion-boards">Discussion Boards</h3>
+</section>
+<section id="assessments" class="level3">
+<h3 class="anchored" data-anchor-id="assessments">Assessments</h3>
+</section>
+<section id="points-and-letter-grades" class="level3">
+<h3 class="anchored" data-anchor-id="points-and-letter-grades">Points and letter grades</h3>
+<table class="table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Assignment</th>
+<th style="text-align: right;">Points</th>
+<th style="text-align: right;">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">12 Weekly Modules</td>
+<td style="text-align: right;">5+</td>
+<td style="text-align: right;">up to 75</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Assessment 1</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Assessment 2</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Final Assessment</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">10</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">100</td>
+</tr>
+</tbody>
+</table>
+<p>Percentage grades are converted to letter grades according to the following rubric.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Letter grade</th>
+<th style="text-align: left;">Range</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">A+</td>
+<td style="text-align: left;">96.67-100</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">93.33-96.66</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">A-</td>
+<td style="text-align: left;">90-93.32</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B+</td>
+<td style="text-align: left;">86.67-89.99</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">83.33-86.66</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B-</td>
+<td style="text-align: left;">80-83.32</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C+</td>
+<td style="text-align: left;">76.67-79.99</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">C</td>
+<td style="text-align: left;">73-76.66</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">C-</td>
+<td style="text-align: left;">70-72.99</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">D+</td>
+<td style="text-align: left;">66.67-69.99</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">D</td>
+<td style="text-align: left;">63.33-66.66</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">D-</td>
+<td style="text-align: left;">60-63.32</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">F</td>
+<td style="text-align: left;">0-59.99</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="attendance" class="level2">
+<h2 class="anchored" data-anchor-id="attendance">Attendance</h2>
+<p>Students are expected to attend and participate in each class.</p>
+</section>
+<section id="course-policies" class="level2">
+<h2 class="anchored" data-anchor-id="course-policies">Course Policies</h2>
+<section id="due-dates" class="level3">
+<h3 class="anchored" data-anchor-id="due-dates">Due dates</h3>
+<p>Due dates are suggestions for completing coursework on a weekly basis. You may be able to work ahead, but you are not encouraged to fall behind.</p>
+<p>You should email me if you have an exceptional circumstance preventing you from taking an assessment during an assessment week.</p>
+</section>
+<section id="changes-to-the-syllabus" class="level3">
+<h3 class="anchored" data-anchor-id="changes-to-the-syllabus">Changes to the syllabus</h3>
+<p>The syllabus may be updated for clarity or to make adjustments for pedagogical purposes. The most current version of the syllabus is always available from the course website.</p>
+</section>
+<section id="missing-an-exam" class="level3">
+<h3 class="anchored" data-anchor-id="missing-an-exam">Missing an Exam</h3>
+<p>In the event of an emergency, contact me as soon as possible. If you are missing an exam for religious reasons refer to the state law regarding non-attendance because of religious beliefs noted in the front matter of the Undergraduate Bulletin and Graduate Bulletin. These may be found on the Academic Calendars, Course Schedules, and Bulletins page of the Registrar’s website. See also the student bereavement policy at <a href="http://www.brooklyn.cuny.edu/web/about/initiatives/policies/bereavement.php" class="uri">http://www.brooklyn.cuny.edu/web/about/initiatives/policies/bereavement.php</a>.</p>
+<hr>
+</section>
+<section id="accessibility" class="level3">
+<h3 class="anchored" data-anchor-id="accessibility">Accessibility</h3>
+<p>In order to receive disability-related academic accommodations students must first be registered with the Center for Student Disability Services. Students who have a documented disability or suspect they may have a disability are invited to set up an appointment with the Director of the Center for Student Disability Services, at 718-951-5538. If you have already registered with the Center for Student Disability Services, please provide your professor with the course accommodation form and discuss your specific accommodation with him/her.</p>
+<hr>
+</section>
+<section id="email-correspondence" class="level3">
+<h3 class="anchored" data-anchor-id="email-correspondence">Email Correspondence</h3>
+<p>I will regularly use e-mail via blackboard to send out announcements, changes in the syllabus, reminders about tests or due dates etc. It is your responsibility to check e-mail regularly to keep up-to-date with these announcements. I will use the e-mail address you have listed with the College. Therefore, please make sure that this is indeed the correct address.</p>
+<p>If you have questions please email me:</p>
+<ol type="1">
+<li>put Seminar 2 in your subject line</li>
+<li>email me at: mcrump@brooklyn.cuny.edu</li>
+</ol>
+</section>
+<section id="general-help-with-research-and-writing" class="level3">
+<h3 class="anchored" data-anchor-id="general-help-with-research-and-writing">General Help with Research and Writing</h3>
+<p>The Library maintains a collection of links to sites that can assist you with proper citation format and paraphrasing and quoting other authors at <a href="https://library.brooklyn.cuny.edu/resources/?service=research-help">Research &amp; Writing Help</a>. The Learning Center has writing tutors available to help you with your writing <a href="http://lc.brooklyn.cuny.edu/">http://lc.brooklyn.cuny.edu/</a>.</p>
+<p>The best learning is done in conversation with others, whether they are people—classmates, teachers, friends—or texts—books, articles, essays, poems, films etc. It should not be a solitary process. However, the assignments that you hand in for this course must be done on your own, should represent your own thinking, and should be original work that you have done for this particular course. A good way to balance these two seemingly contradictory approaches (collaborative learning and original individually-produced work) without knowingly—or, even unwittingly—resorting to plagiarism or other forms of academic misconduct is to learn and meticulously observe the rules for citing the work of others (this could be the great point your roommate made that you used in your paper, it could be a well-turned phrase from an academic essay, or it could be anything in between). It is your responsibility to learn what constitutes plagiarism and the correct rules for citing sources—read the information on the following website carefully: <a href="http://www.brooklyn.cuny.edu/bc/policies/">http://www.brooklyn.cuny.edu/bc/policies/</a>. The bottom line is: passing off anyone’s words or ideas as your own for any reason whatsoever is plagiarism.</p>
+</section>
+</section>
+<section id="violations-of-academic-integrity" class="level2">
+<h2 class="anchored" data-anchor-id="violations-of-academic-integrity">Violations of Academic integrity</h2>
+<p>It is the responsibility of each student to understand and act in accordance with the University’s policy on Academic Integrity, described below.</p>
+<section id="universitys-policy-on-academic-integrity" class="level3">
+<h3 class="anchored" data-anchor-id="universitys-policy-on-academic-integrity">University’s policy on Academic Integrity</h3>
+<p>The faculty and administration of Brooklyn College support an environment free from cheating and plagiarism. Each student is responsible for being aware of what constitutes cheating and plagiarism and for avoiding both. The complete text of the CUNY Academic Integrity Policy and the Brooklyn College procedure for implementing that policy can be found at <a href="http://www.brooklyn.cuny.edu/web/about/initiatives.php">this site</a>. If a faculty member suspects a violation of academic integrity and, upon investigation, confirms that violation, or if the student admits the violation, the faculty member MUST report the violation.</p>
+</section>
+<section id="fyi-on-cheating-etc." class="level3">
+<h3 class="anchored" data-anchor-id="fyi-on-cheating-etc.">FYI on cheating etc.</h3>
+<p>Remember, you are responsible for not cheating or violating CUNY’s <a href="http://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/">Academic Integrity Policy</a>. You are responsible for understanding that policy, and for conducting yourself in a manner such that you do not violate the policy.</p>
+<p>The above link lists many examples of cheating and plagiarism that are not allowed. There are many more specific acts that you should NOT do. Here is an additional list of activities that will be sufficient cause for immediate failure in the course.</p>
+<ul>
+<li>Do not take pictures of exam or quiz questions and share them with other students</li>
+<li>Do not give other students answers during an exam or quiz, or any other assignment that is an individual assignment</li>
+<li>Do not copy work from another source and submit it as your own</li>
+<li>Do not copy and paste text from the internet and submit it as your own words</li>
+<li>Do not copy and paste text and slightly alter wording to pass the work off as your own</li>
+<li>Do not hire someone else to do the coursework for you</li>
+<li>Do not copy and paste text into a paraphrasing app, and then submit the output of the paraphrasing app as your own work</li>
+<li>Do not copy random words from the internet that have nothing to do with the assignment and submit them as your own work.</li>
+<li>Do not work on individual assignments with other students, share answers or other material, and then all hand in versions of the same thing that are slightly different.</li>
+<li>Do not plagiarize yourself by submitting work that you have previously completed in another class.</li>
+</ul>
+</section>
+<section id="mandate-to-report-violations" class="level3">
+<h3 class="anchored" data-anchor-id="mandate-to-report-violations">Mandate to report violations</h3>
+<p>If a faculty member suspects a violation of academic integrity and, upon investigation, confirms that violation, or if the student admits the violation, the faculty member MUST report the violation. Students should be aware that faculty may use plagiarism detection software.</p>
+<p>There is no excuse for cheating. Students who are caught cheating may receive a failing grade for the entire course. All students who violate the academic integrity will receive a Faculty Action Report, which will go on their personal file at the Academic Integrity Office.</p>
+</section>
+</section>
+<section id="faq" class="level2">
+<h2 class="anchored" data-anchor-id="faq">FAQ</h2>
+<p>If you have questions about the syllabus, let’s talk about it in class, and/or please create a thread to discuss the question on the discussion board for this course on Blackboard.</p>
 
 
 </section>
@@ -203,7 +521,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
