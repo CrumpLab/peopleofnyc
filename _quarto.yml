@@ -4,13 +4,14 @@ project:
 
 website:
   title: "peopleofnyc"
-  image: "imgs/nyc.png"
   description: "Website for Seminar 2: People of New York City, Spring 2023. Taught by Dr. Matthew Crump at Brooklyn College of CUNY."
   repo-url: https://github.com/CrumpLab/peopleofnyc
   repo-actions: [source, edit, issue]
+  site-url: "https://crumplab.com/peopleofnyc"
   search: true
   twitter-card:
     creator: "@MattCrumpLab"
+    image: "imgs/nyc.png"
   navbar:
     left:
       - href: index.qmd
