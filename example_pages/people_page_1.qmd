@@ -1,0 +1,54 @@
+---
+title: "People page template"
+editor: visual
+format: 
+  html: 
+    page-layout: full
+---
+
+```{r, echo = FALSE}
+library(yaml)
+library(stringr)
+
+# read in yml with individual people data
+
+people_list <- read_yaml(file = 'mollusc.yml')
+people_df <- as.data.frame(do.call(rbind, people_list))
+
+# write bootstrap 5 card for each person
+```
+
+```{r}
+#| results: asis
+#| echo: false
+
+cat(c('<div class="grid" style="--bs-columns: 5;">'))
+#cat(c('<div class="row row-cols-3 row-cols-md-3 g-4">'))
+#cat(c('<div class="row row-cols-3 row-cols-md-3 g-4">'))
+
+for (n in 1:dim(people_df)[1]){
+
+  img <- people_df[n,'picture']
+  first_name <- people_df[n,'first_name']
+  last_name <- people_df[n,'last_name']
+  description <- people_df[n,'short_bio']
+  url <- people_df[n,'website']
+  
+  a <- c('
+  <div class="col">
+  <div class="card">
+  <img src="{img}" class="card-img-top" alt="">
+  <div class="card-body">
+  <h5 class="card-title"> {first_name} {last_name} </h5>
+  <p class="card-text"> {description} </p>
+  <a href="{url}" class="btn btn-primary"> Website  </a> 
+  </div>
+  </div>
+  </div>
+    ')
+  cat(str_glue(a))
+}
+    
+cat(c('</div>'))
+```
+

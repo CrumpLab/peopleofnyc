@@ -6,6 +6,7 @@ website:
   title: "peopleofnyc"
   repo-url: https://github.com/CrumpLab/peopleofnyc
   repo-actions: [source, edit, issue]
+  search: true
   navbar:
     left:
       - href: index.qmd
@@ -25,12 +26,15 @@ website:
           - example_pages/quarto_about_broadside.qmd
           - example_pages/quarto_none.qmd
           - example_pages/quarto_theme.qmd
+          - example_pages/people_page_1.qmd
       - icon: github
         href: https://github.com/CrumpLab/peopleofnyc
         aria-label: GitHub
   sidebar: 
     - title: "The Remembering Project"
-      style: "docked"
+      style: "floating"
+      collapse-level: 2
+      align: left
       contents: 
         - project/intro.qmd
         - project/1_chpt.qmd
@@ -44,6 +48,7 @@ format:
   html:
     theme: cosmo
     css: css/nav.css
+    toc: true
 
 editor: visual
 

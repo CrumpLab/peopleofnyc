@@ -105,6 +105,13 @@
     "text": "Experience\nAssistant Professor - Brooklyn College of CUNY (2011)\nAssociate Professor - Brooklyn College of CUNY (2016)\nFull Professor - Brooklyn College of CUNY (2022)"
   },
   {
+    "objectID": "example_pages/people_page_1.html",
+    "href": "example_pages/people_page_1.html",
+    "title": "People page template",
+    "section": "",
+    "text": "Matt Crump\n\n\nMatt Crump is a professor of psychology\n\n Website \n\n\n\n\n\n\n\n\nBlah Blah\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nMighty Sparrow\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nP Stuyvesant\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nJ Rodriguez\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nA Person\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nAnother Person\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nJusta Another Peeps\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nApples Tree\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nmac intosh\n\n\nBlah Blah is a mollusc\n\n Website"
+  },
+  {
     "objectID": "example_pages/quarto_about_solana.html",
     "href": "example_pages/quarto_about_solana.html",
     "title": "About solana template",
@@ -173,6 +180,20 @@
     "title": "About marquee template",
     "section": "Experience",
     "text": "Experience\nAssistant Professor - Brooklyn College of CUNY (2011)\nAssociate Professor - Brooklyn College of CUNY (2016)\nFull Professor - Brooklyn College of CUNY (2022)"
+  },
+  {
+    "objectID": "example_pages/generate_art.html",
+    "href": "example_pages/generate_art.html",
+    "title": "generate_art",
+    "section": "",
+    "text": "The code block uses a function from the mathart package to generate variations of shell-like images.\nhttps://github.com/marcusvolz/mathart\nRead in a yaml file that contains information about individuals. Convert to a data.frame\nFigure out how to populate a bootstrap 5 card with individual properties.\nprint a card."
+  },
+  {
+    "objectID": "example_pages/generate_art.html#example-people-page",
+    "href": "example_pages/generate_art.html#example-people-page",
+    "title": "generate_art",
+    "section": "Example People page",
+    "text": "Example People page\nTest out generating a list people cards.\n\n\n\n\n\n\nMatt Crump\n\n\nMatt Crump is a professor of psychology\n\n Website \n\n\n\n\n\n\n\n\nBlah Blah\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nMighty Sparrow\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nP Stuyvesant\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nJ Rodriguez\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nA Person\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nAnother Person\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nJusta Another Peeps\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nApples Tree\n\n\nBlah Blah is a mollusc\n\n Website \n\n\n\n\n\n\n\n\nmac intosh\n\n\nBlah Blah is a mollusc\n\n Website"
   },
   {
     "objectID": "syllabus.html",

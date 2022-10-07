@@ -1,0 +1,126 @@
+---
+title: "generate_art"
+editor: visual
+---
+
+The code block uses a function from the mathart package to generate variations of shell-like images.
+
+<https://github.com/marcusvolz/mathart>
+
+```{r, eval= FALSE}
+library(mathart)
+library(ggforce)
+library(Rcpp)
+library(tidyverse)
+
+for (i in 1:20){
+
+df <- mollusc(100,400,
+              alpha=round(runif(1,0,360)),
+              beta=round(runif(1,0,360)),
+              phi=round(runif(1,0,360)),
+              mu=round(runif(1,0,360)),
+              P=round(runif(1,-3,3)),
+              N=round(runif(1,0,3))
+              )
+df1 <- df %>% mutate(id = 1)
+
+p <- ggplot() +
+  geom_point(aes(x, z), df1, size = 0.03, alpha = 0.03) +
+  geom_path( aes(x, z), df1, size = 0.03, alpha = 0.03) +
+  theme_blankcanvas(margin_cm = 0.5)
+
+im_name <- paste0("molluscs/mollusc",i,".png")
+
+ggsave(im_name, width = 4, height = 3, units = "cm")
+}
+
+```
+
+Read in a yaml file that contains information about individuals. Convert to a data.frame
+
+```{r}
+library(yaml)
+
+people_list <- read_yaml(file = 'mollusc.yml')
+people_df <- as.data.frame(do.call(rbind, people_list))
+```
+
+Figure out how to populate a bootstrap 5 card with individual properties.
+
+```{r}
+library(stringr)
+
+n <- 1
+img <- people_df[n,'picture']
+first_name <- people_df[n,'first_name']
+last_name <- people_df[n,'last_name']
+description <- people_df[n,'short_bio']
+url <- people_df[n,'website']
+
+a <- c('
+<div class="card" style="width: 18rem;">
+<img src="{img}" class="card-img-top" alt="">
+<div class="card-body">
+<h5 class="card-title"> {first_name} {last_name} </h5>
+<p class="card-text"> {description} </p>
+<a href="{url}" class="btn btn-primary"> Website  </a> 
+</div>
+</div>
+  ')
+
+#str_glue(a)
+```
+
+print a card.
+
+```{r}
+#| results: asis
+
+cat(str_glue(a))
+```
+
+## Example People page
+
+Test out generating a list people cards.
+
+
+```{r}
+#| results: asis
+#| echo: false
+
+cat(c('<div class="grid" style="--bs-columns: 3;">'))
+#cat(c('<div class="row row-cols-3 row-cols-md-3 g-4">'))
+#cat(c('<div class="row row-cols-3 row-cols-md-3 g-4">'))
+
+for (n in 1:dim(people_df)[1]){
+
+  img <- people_df[n,'picture']
+  first_name <- people_df[n,'first_name']
+  last_name <- people_df[n,'last_name']
+  description <- people_df[n,'short_bio']
+  url <- people_df[n,'website']
+  
+  a <- c('
+  <div class="col">
+  <div class="card">
+  <img src="{img}" class="card-img-top" alt="">
+  <div class="card-body">
+  <h5 class="card-title"> {first_name} {last_name} </h5>
+  <p class="card-text"> {description} </p>
+  <a href="{url}" class="btn btn-primary"> Website  </a> 
+  </div>
+  </div>
+  </div>
+    ')
+  cat(str_glue(a))
+}
+    
+cat(c('</div>'))
+
+```
+
+
+
+
+
