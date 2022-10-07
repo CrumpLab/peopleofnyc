@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.0.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,15 +12,10 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
-ul.task-list li input[type="checkbox"] {
-  width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
-  vertical-align: middle;
-}
 </style>
 
 
@@ -77,11 +72,9 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
-    <a class="navbar-brand" href="../index.html">
+      <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">peopleofnyc</span>
-    </a>
-  </div>
+  </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -187,8 +180,8 @@ ul.task-list li input[type="checkbox"] {
 <div class="cell">
 
 </div>
-<div class="grid" style="--bs-columns: 5;">
-<div class="col">
+<div class="grid">
+<div class="g-col-12 g-col-md-4 g-col-lg-2">
 <div class="card">
 <img src="molluscs/mollusc1.png" class="card-img-top" alt="">
 <div class="card-body">
@@ -202,7 +195,7 @@ Matt Crump is a professor of psychology
 </div>
 </div>
 </div>
-<div class="col">
+<div class="g-col-12 g-col-md-4 g-col-lg-2">
 <div class="card">
 <img src="molluscs/mollusc2.png" class="card-img-top" alt="">
 <div class="card-body">
@@ -216,7 +209,7 @@ Blah Blah is a mollusc
 </div>
 </div>
 </div>
-<div class="col">
+<div class="g-col-12 g-col-md-4 g-col-lg-2">
 <div class="card">
 <img src="molluscs/mollusc3.png" class="card-img-top" alt="">
 <div class="card-body">
@@ -230,7 +223,7 @@ Blah Blah is a mollusc
 </div>
 </div>
 </div>
-<div class="col">
+<div class="g-col-12 g-col-md-4 g-col-lg-2">
 <div class="card">
 <img src="molluscs/mollusc4.png" class="card-img-top" alt="">
 <div class="card-body">
@@ -244,7 +237,7 @@ Blah Blah is a mollusc
 </div>
 </div>
 </div>
-<div class="col">
+<div class="g-col-12 g-col-md-4 g-col-lg-2">
 <div class="card">
 <img src="molluscs/mollusc5.png" class="card-img-top" alt="">
 <div class="card-body">
@@ -258,7 +251,7 @@ Blah Blah is a mollusc
 </div>
 </div>
 </div>
-<div class="col">
+<div class="g-col-12 g-col-md-4 g-col-lg-2">
 <div class="card">
 <img src="molluscs/mollusc6.png" class="card-img-top" alt="">
 <div class="card-body">
@@ -272,7 +265,7 @@ Blah Blah is a mollusc
 </div>
 </div>
 </div>
-<div class="col">
+<div class="g-col-12 g-col-md-4 g-col-lg-2">
 <div class="card">
 <img src="molluscs/mollusc7.png" class="card-img-top" alt="">
 <div class="card-body">
@@ -286,7 +279,7 @@ Blah Blah is a mollusc
 </div>
 </div>
 </div>
-<div class="col">
+<div class="g-col-12 g-col-md-4 g-col-lg-2">
 <div class="card">
 <img src="molluscs/mollusc8.png" class="card-img-top" alt="">
 <div class="card-body">
@@ -300,7 +293,7 @@ Blah Blah is a mollusc
 </div>
 </div>
 </div>
-<div class="col">
+<div class="g-col-12 g-col-md-4 g-col-lg-2">
 <div class="card">
 <img src="molluscs/mollusc9.png" class="card-img-top" alt="">
 <div class="card-body">
@@ -314,7 +307,7 @@ Blah Blah is a mollusc
 </div>
 </div>
 </div>
-<div class="col">
+<div class="g-col-12 g-col-md-4 g-col-lg-2">
 <div class="card">
 <img src="molluscs/mollusc10.png" class="card-img-top" alt="">
 <div class="card-body">
@@ -402,8 +395,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      let href = ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
