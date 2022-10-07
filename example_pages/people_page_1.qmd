@@ -1,5 +1,6 @@
 ---
 title: "People page template"
+description: "An example template for a people page using Bootstrap 5 cards. "
 editor: visual
 format: 
   html: 
