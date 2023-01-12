@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "peopleofnyc",
     "section": "",
-    "text": "Seminar 2: People of New York City\nThis is the course website for Seminar 2: People of NYC, taught by Dr. Matthew Crump in Spring 2023, for the Macaulay Honor’s program at Brooklyn College of CUNY. This website is currently under development\nCatalogue Description: In this seminar, students use tools from the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Extensive reading and writing assignments are enriched by visits to neighborhoods, museums and historical and cultural sites across the city.\nCourse Description: In this seminar, students use the tools of the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Seminar topics include: the experiences of Indigenous and enslaved populations; the ongoing consequences of settler colonialism; the ways in which culture, class, religion, race, gender, ethnicity, xenophobia, and racism have shaped New Yorkers’ experiences with and within the city; the formation and social organization of New York’s communities; the impact of successive waves of newcomers to the city on urban culture and politics; and the continuing debates over assimilation, cultural retention, and “Americanization.”\nExtensive reading and writing assignments are enriched by visits to neighborhoods, museums, and historical and cultural sites across the city and the use of demographic, population and other quantitative data as well as qualitative approaches. All classes create public-facing final projects, documenting their research and presenting an aspect of New York City’s diversity.\nLearning Goals/Outcomes: Students will:\n\nDemonstrate a comparative understanding of different populations through research and writing about one or more groups or about an area of the city and its shifting population across time.\nUse a variety of approaches (e.g. qualitative, quantitative, or experiential) to studying people in order to come to an understanding of the diversity of people’s experiences in and of the city.\nUnderstand the advantages and disadvantages of different approaches and methodologies used by the social sciences.\nIncrease their understanding of past and present issues including colonialism, migration, immigration, race, and ethnicity by analyzing a variety of sources (current, historical, primary, secondary) and by engaging in active discussion about those issues.\nPresent their research to a public audience through a final project that may be completed by small groups or the entire class.\nCritically examine their own roles in and effect on the communities of New York City."
+    "text": "Seminar 2: The People of New York City\nThis is the course website for Seminar 2: The People of New York City, taught by Dr. Matthew Crump in Spring 2023, for the Macaulay Honor’s program at Brooklyn College of CUNY. This website is currently under development\nCatalogue Description: In this seminar, students use tools from the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Extensive reading and writing assignments are enriched by visits to neighborhoods, museums and historical and cultural sites across the city.\nCourse Description: In this seminar, students use the tools of the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Seminar topics include: the experiences of Indigenous and enslaved populations; the ongoing consequences of settler colonialism; the ways in which culture, class, religion, race, gender, ethnicity, xenophobia, and racism have shaped New Yorkers' experiences with and within the city; the formation and social organization of New York's communities; the impact of successive waves of newcomers to the city on urban culture and politics; and the continuing debates over assimilation, cultural retention, and \"Americanization.\" Extensive reading and writing assignments are enriched by visits to neighborhoods, museums, and historical and cultural sites across the city and the use of demographic, population and other quantitative data as well as qualitative approaches. All classes create public-facing final projects, documenting their research and presenting an aspect of New York City's diversity.\nLearning Goals/Outcomes: Students will:\n\nDemonstrate a comparative understanding of different populations through research and writing about one or more groups or about an area of the city and its shifting population across time.\nUse a variety of approaches (e.g. qualitative, quantitative, or experiential) to studying people in order to come to an understanding of the diversity of people’s experiences in and of the city.\nUnderstand the advantages and disadvantages of different approaches and methodologies used by the social sciences.\nIncrease their understanding of past and present issues including colonialism, migration, immigration, race, and ethnicity by analyzing a variety of sources (current, historical, primary, secondary) and by engaging in active discussion about those issues.\nPresent their research to a public audience through a final project that may be completed by small groups or the entire class.\nCritically examine their own roles in and effect on the communities of New York City."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "As of Fall 2022, this website is currently under development."
+    "text": "This is the course website for Seminar 2: People of NYC, taught by Dr. Matthew Crump in Spring 2023, for the Macaulay Honor’s program at Brooklyn College of CUNY.\nAs of Fall 2022, this website is currently under development."
   },
   {
     "objectID": "project/intro.html",
@@ -158,7 +158,7 @@
     "href": "example_pages/quarto_theme.html",
     "title": "quarto_theme",
     "section": "",
-    "text": "For example, the theme for this website is defined in _quarto.yml as:\nformat:\n  html:\n    theme: cosmo\n    css: css/nav.css\nAnd, the theme for this page is defined in the yml header of this .qmd file as:\nformat: \n  html: \n    theme: minty\nHowever, the minty theme is not overriding the site-wide cosmo theme for this page. Individual pages can be custom themed by including a css file and modifying bootstrap defaults, or by declaring new css classes."
+    "text": "As of this rendering, quarto websites render all pages under the site-wide bootstrap 5 theme, and ignores themes defined for individual pages.\nFor example, the theme for this website is defined in _quarto.yml as:\nformat:\n  html:\n    theme: cosmo\n    css: css/nav.css\nAnd, the theme for this page is defined in the yml header of this .qmd file as:\nformat: \n  html: \n    theme: minty\nHowever, the minty theme is not overriding the site-wide cosmo theme for this page. Individual pages can be custom themed by including a css file and modifying bootstrap defaults, or by declaring new css classes."
   },
   {
     "objectID": "example_pages/quarto_about_marquee.html",
@@ -264,5 +264,61 @@
     "title": "Syllabus",
     "section": "FAQ",
     "text": "FAQ\nIf you have questions about the syllabus, let’s talk about it in class, and/or please create a thread to discuss the question on the discussion board for this course on Blackboard."
+  },
+  {
+    "objectID": "compendium/index.html",
+    "href": "compendium/index.html",
+    "title": "Compendium",
+    "section": "",
+    "text": "This compendium is for course resources. Pages created here will provide pointers to general seminar 2 information, helpful technology used throughout the course, and many other useful tidbits."
+  },
+  {
+    "objectID": "compendium/Seminar_2_general_info.html",
+    "href": "compendium/Seminar_2_general_info.html",
+    "title": "Seminar 2 General Info",
+    "section": "",
+    "text": "Seminar 2: People of New York City is explored in new ways every semester by cohorts of Macaulay Honors student. It will be helpful for our own exploration to learn from prior classes. General information about seminar 2 is available from the Macaulay e-portfolio site. Many previous versions of the course and their resulting course projects are available from the seminar 2 Encyclopedia.\nThe purpose of this page is to collect information about seminar 2 that can help us better inform our own process for exploration and scholarship."
+  },
+  {
+    "objectID": "compendium/Seminar_2_general_info.html#catalogue-description",
+    "href": "compendium/Seminar_2_general_info.html#catalogue-description",
+    "title": "Seminar 2 General Info",
+    "section": "Catalogue Description",
+    "text": "Catalogue Description\nIn this seminar, students use tools from the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Extensive reading and writing assignments are enriched by visits to neighborhoods, museums and historical and cultural sites across the city."
+  },
+  {
+    "objectID": "compendium/Seminar_2_general_info.html#course-description",
+    "href": "compendium/Seminar_2_general_info.html#course-description",
+    "title": "Seminar 2 General Info",
+    "section": "Course Description",
+    "text": "Course Description\nIn this seminar, students use the tools of the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Seminar topics include: the experiences of Indigenous and enslaved populations; the ongoing consequences of settler colonialism; the ways in which culture, class, religion, race, gender, ethnicity, xenophobia, and racism have shaped New Yorkers' experiences with and within the city; the formation and social organization of New York's communities; the impact of successive waves of newcomers to the city on urban culture and politics; and the continuing debates over assimilation, cultural retention, and \"Americanization.\" Extensive reading and writing assignments are enriched by visits to neighborhoods, museums, and historical and cultural sites across the city and the use of demographic, population and other quantitative data as well as qualitative approaches. All classes create public-facing final projects, documenting their research and presenting an aspect of New York City's diversity."
+  },
+  {
+    "objectID": "compendium/Seminar_2_general_info.html#learning-goalsoutcomes",
+    "href": "compendium/Seminar_2_general_info.html#learning-goalsoutcomes",
+    "title": "Seminar 2 General Info",
+    "section": "Learning Goals/Outcomes",
+    "text": "Learning Goals/Outcomes\nStudents will:\n\nDemonstrate a comparative understanding of different populations through research and writing about one or more groups or about an area of the city and its shifting population across time.\nUse a variety of approaches (e.g. qualitative, quantitative, or experiential) to studying people in order to come to an understanding of the diversity of people’s experiences in and of the city.\nUnderstand the advantages and disadvantages of different approaches and methodologies used by the social sciences.\nIncrease their understanding of past and present issues including colonialism, migration, immigration, race, and ethnicity by analyzing a variety of sources (current, historical, primary, secondary) and by engaging in active discussion about those issues.\nPresent their research to a public audience through a final project that may be completed by small groups or the entire class.\nCritically examine their own roles in and effect on the communities of New York City."
+  },
+  {
+    "objectID": "compendium/Seminar_2_general_info.html#more-context-for-seminar-2",
+    "href": "compendium/Seminar_2_general_info.html#more-context-for-seminar-2",
+    "title": "Seminar 2 General Info",
+    "section": "More context for Seminar 2",
+    "text": "More context for Seminar 2\nFaculty who teach seminar 2 receive information packets about this seminar. I am sharing some of this info here to provide more context for the course.\n“The course was originally titled \"The Peopling of New York City,\" and focused on patterns of immigration as well as neighborhood constitution and dynamics.  In conversations with faculty, students and ITFs/TLCs, we've moved towards a slight modification to that title.  \"The People of New York City\" more accurately reflects the content the course should cover.  Immigration is not an unqualified positive story, and the story of the people of New York includes indigenous populations (past and present), as well as those whose ancestors (near or far) were brought to New York without choosing to come voluntarily.  Questions of gentrification, race, culture, gender, homelessness, inequality, education, cultural appropriation (and more) can all be part of the content of this course, and the narratives that the course pursues are complex and multifaceted.”\n“This is an interdisciplinary course, and should be taught as such.  It is not a history course, a sociology course, or an anthropology course, but it often has elements of all of those fields.  It should not be seen as an introductory course to any specific field, but instead a cross-disciplinary examination of the ways that different areas in the social sciences might approach the same content area.  The course should provide some comparison of different approaches in every individual section.  Sociology, anthropology, history, political science, geography, demographics (and more) are all welcome, but no single one of these areas should be the sole focus of the course.”"
+  },
+  {
+    "objectID": "compendium/Seminar_2_general_info.html#honors-expectations",
+    "href": "compendium/Seminar_2_general_info.html#honors-expectations",
+    "title": "Seminar 2 General Info",
+    "section": "Honor’s expectations",
+    "text": "Honor’s expectations\nThis is an honors seminar, and as a class we will discuss and develop expectations for honors level work. This will generally entail “a deep and critical understanding of source material, and a creative and fluent expression of the products of research”. We will creatively explore many ways to engage in and express honors level inquiry."
+  },
+  {
+    "objectID": "compendium/Seminar_2_general_info.html#the-common-project",
+    "href": "compendium/Seminar_2_general_info.html#the-common-project",
+    "title": "Seminar 2 General Info",
+    "section": "The common project",
+    "text": "The common project\n“The course requires a public-facing project of some kind from all students.  Many sections have produced a website detailing their research on a neighborhood or an immigrant group (or some other topic).  You can find many examples on the TLC site.  A website project remains a very strong and effective way of fulfilling the public-facing project requirement of the course, especially during distance learning.  There are other alternatives, such as videos, that some classes have experimented with.  Those projects still need an online presence as a way of being shared and publicly accessible.”\nExamples of past projects can be seen in the Seminar 2 encyclopedia.\nWe will be discussing and developing our own common project throughout the semester that will, at a minimum, involve developing a website to present a public-facing expression of our seminar 2 activities."
   }
 ]

@@ -1,0 +1,6 @@
+---
+title: "Compendium"
+editor: visual
+---
+
+This compendium is for course resources. Pages created here will provide pointers to general seminar 2 information, helpful technology used throughout the course, and many other useful tidbits. 

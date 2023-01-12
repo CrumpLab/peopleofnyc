@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    port: 4200
+    browser: true
+    navigate: true
 
 website:
   title: "peopleofnyc"
@@ -14,11 +18,12 @@ website:
     image: "imgs/nyc.png"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - syllabus.qmd
-      - text: "The Remembering Project"
-        file: project/intro.qmd
+      - text: "Syllabus"
+        file: syllabus.qmd
+      #- text: "The Remembering Project"
+      #  file: project/intro.qmd
+      - text: "Compendium"
+        file: compendium/index.qmd
     right: 
       - about.qmd
       - text: "Quarto Examples"
@@ -36,18 +41,26 @@ website:
         href: https://github.com/CrumpLab/peopleofnyc
         aria-label: GitHub
   sidebar: 
-    - title: "The Remembering Project"
+    # - title: "The Remembering Project"
+    #   style: "floating"
+    #   collapse-level: 2
+    #   align: left
+    #   contents: 
+    #     - project/intro.qmd
+    #     - project/1_chpt.qmd
+    #     - project/2_chpt.qmd
+    #     - project/3_chpt.qmd
+    #     - project/4_chpt.qmd
+    #     - project/5_chpt.qmd
+    - title: "Compendium"
       style: "floating"
       collapse-level: 2
       align: left
-      contents: 
-        - project/intro.qmd
-        - project/1_chpt.qmd
-        - project/2_chpt.qmd
-        - project/3_chpt.qmd
-        - project/4_chpt.qmd
-        - project/5_chpt.qmd
-    - title: "Quarto Examples"
+      contents: compendium
+    - title: "Syllabus"
+      contents:
+        - syllabus.qmd
+      
       
 format:
   html:

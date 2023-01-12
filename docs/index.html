@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.37">
+<meta name="generator" content="quarto-1.2.210">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 </style>
 
 
@@ -58,7 +63,7 @@ ul.task-list{list-style: none;}
 <link rel="stylesheet" href="css/nav.css">
 <link rel="stylesheet" href="css/home.css">
 <meta name="twitter:title" content="peopleofnyc -">
-<meta name="twitter:description" content="This is the course website for Seminar 2: People of NYC, taught by Dr.&nbsp;Matthew Crump in Spring 2023, for the Macaulay Honor’s program at Brooklyn College of CUNY.">
+<meta name="twitter:description" content="This is the course website for Seminar 2: The People of New York City, taught by Dr.&nbsp;Matthew Crump in Spring 2023, for the Macaulay Honor’s program at Brooklyn College of CUNY.">
 <meta name="twitter:image" content="https://crumplab.com/peopleofnyc/imgs/nyc.png">
 <meta name="twitter:creator" content="@MattCrumpLab">
 <meta name="twitter:image-height" content="1109">
@@ -72,30 +77,34 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">peopleofnyc</span>
-  </a>
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
+    <a class="nav-link" href="./syllabus.html">
+ <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./syllabus.html">Syllabus</a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./project/intro.html">The Remembering Project</a>
+    <a class="nav-link" href="./compendium/index.html">
+ <span class="menu-text">Compendium</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">About</a>
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-quarto-examples" role="button" data-bs-toggle="dropdown" aria-expanded="false">Quarto Examples</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-quarto-examples" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Quarto Examples</span>
+    </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-quarto-examples">    
         <li>
     <a class="dropdown-item" href="./example_pages/quarto_help.html">
@@ -138,7 +147,7 @@ ul.task-list{list-style: none;}
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/CrumpLab/peopleofnyc"><i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -151,11 +160,11 @@ ul.task-list{list-style: none;}
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#seminar-2-people-of-new-york-city" id="toc-seminar-2-people-of-new-york-city" class="nav-link active" data-scroll-target="#seminar-2-people-of-new-york-city">Seminar 2: People of New York City</a></li>
+  <li><a href="#seminar-2-the-people-of-new-york-city" id="toc-seminar-2-the-people-of-new-york-city" class="nav-link active" data-scroll-target="#seminar-2-the-people-of-new-york-city">Seminar 2: The People of New York City</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/CrumpLab/peopleofnyc/blob/main/index.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/CrumpLab/peopleofnyc/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/CrumpLab/peopleofnyc/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -169,12 +178,11 @@ ul.task-list{list-style: none;}
 <p><img src="imgs/nyc.png" class="img-fluid" width="1508"></p>
 </div>
 </div>
-<section id="seminar-2-people-of-new-york-city" class="level1">
-<h1>Seminar 2: People of New York City</h1>
-<p>This is the course website for Seminar 2: People of NYC, taught by <a href="https://crumplab.com">Dr.&nbsp;Matthew Crump</a> in Spring 2023, for the <a href="https://www.brooklyn.cuny.edu/web/academics/honors-academy/programs/macaulay.php">Macaulay Honor’s program at Brooklyn College of CUNY</a>. <strong>This website is currently under development</strong></p>
+<section id="seminar-2-the-people-of-new-york-city" class="level1">
+<h1>Seminar 2: The People of New York City</h1>
+<p>This is the course website for Seminar 2: The People of New York City, taught by <a href="https://crumplab.com">Dr.&nbsp;Matthew Crump</a> in Spring 2023, for the <a href="https://www.brooklyn.cuny.edu/web/academics/honors-academy/programs/macaulay.php">Macaulay Honor’s program at Brooklyn College of CUNY</a>. <strong>This website is currently under development</strong></p>
 <p><strong>Catalogue Description:</strong> In this seminar, students use tools from the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Extensive reading and writing assignments are enriched by visits to neighborhoods, museums and historical and cultural sites across the city.</p>
-<p><strong>Course Description:</strong> In this seminar, students use the tools of the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Seminar topics include: the experiences of Indigenous and enslaved populations; the ongoing consequences of settler colonialism; the ways in which culture, class, religion, race, gender, ethnicity, xenophobia, and racism have shaped New Yorkers’ experiences with and within the city; the formation and social organization of New York’s communities; the impact of successive waves of newcomers to the city on urban culture and politics; and the continuing debates over assimilation, cultural retention, and “Americanization.”</p>
-<p>Extensive reading and writing assignments are enriched by visits to neighborhoods, museums, and historical and cultural sites across the city and the use of demographic, population and other quantitative data as well as qualitative approaches. All classes create public-facing final projects, documenting their research and presenting an aspect of New York City’s diversity.</p>
+<p><strong>Course Description:</strong> In this seminar, students use the tools of the social sciences, from oral history to mapping and participant observation and beyond, to investigate how the diverse people of New York City shape its identity, past, present, and future. Seminar topics include: the experiences of Indigenous and enslaved populations; the ongoing consequences of settler colonialism; the ways in which culture, class, religion, race, gender, ethnicity, xenophobia, and racism have shaped New Yorkers' experiences with and within the city; the formation and social organization of New York's communities; the impact of successive waves of newcomers to the city on urban culture and politics; and the continuing debates over assimilation, cultural retention, and "Americanization." Extensive reading and writing assignments are enriched by visits to neighborhoods, museums, and historical and cultural sites across the city and the use of demographic, population and other quantitative data as well as qualitative approaches. All classes create public-facing final projects, documenting their research and presenting an aspect of New York City's diversity.</p>
 <p><strong>Learning Goals/Outcomes</strong>: Students will:</p>
 <ul>
 <li>Demonstrate a comparative understanding of different populations through research and writing about one or more groups or about an area of the city and its shifting population across time.</li>
@@ -230,7 +238,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -258,31 +283,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
