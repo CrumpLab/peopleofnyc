@@ -13,16 +13,16 @@ format:
 ::: callout-important
 ## Under construction
 
-This syllabus is under construction until Spring 2023
+This syllabus is under construction throughout the semester as we discuss and modify how to engage with the learning goals for this course.
 :::
 
 Spring 2023
 
-Section: TBD
+Section: 1516, MW3H
 
 Time: 3:40pm - 4:55pm, Monday and Wednesday
 
-Location: TBD
+Location: 2231 BH
 
 Office Hours: TBA (zoom link posted on Blackboard)
 
@@ -70,42 +70,46 @@ There are 15 weeks.
 
 This is an **in-person** class, and students are expected to participate in all aspects of the class.
 
+The structure for our class is also very open-ended, and as a class we are allowed a great deal of flexibility to "choose-our-own adventure". You can expect that the early weeks of this class will involve class discussions about "how" we will accomplish the goals of this class.
+
+Some of the general expectations for this class are set forth on the class website in the compendium:
+
+<https://crumplab.com/peopleofnyc/compendium/Seminar_2_general_info.html>
+
+Our class will attempt to weave through several different goals. One goal is to become familiar with research methods used in the social sciences to ask and answer complex issues about people and society. Individual segments of the course are structured around specific methods. Another goal is to use digital technology to facilitate and share our research findings and process. This course will introduce you to many research technologies that will help you throughout your undergraduate experience, and helpful notes about using these tools will be uploaded to the [compendium](https://crumplab.com/peopleofnyc/compendium/) across the semester. A last major goal is to create a public-facing expression of our work as a class. To this end, we are going to produce our own student-authored, web-based version of the course textbook, complete with suggested walking tours. More on that throughout the semester. 
+
 ## Course Schedule
 
-```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=FALSE}
-#library(data.table)
-library(readxl)
-Lectures <- read_excel("Fall_2022_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
-Lectures$Week <- as.character(Lectures$Week)
-Lectures[is.na(Lectures)] <- " "
-#Lectures <- fread("Lectures.csv")
+This is a rough schedule to keep us on track. Goals and dates may change as a result of class discussion.
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
+
+Lectures <- rio::import("schedule.csv")
 knitr::kable(Lectures)
 
 ```
 
-## Assignments, Assessments, and Grading
+## Assignments, and Grading
 
-```{=html}
-<!--
-There are multiple ways for students to engage with course materials and achieve their desired grade. Students are encouraged to choose the assignments that work best for them. Major course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.
+This is an active seminar class that will require much participation, engagement, discovery, creation, and conversation. The structure and grading of the assignments may change through our conversation and discovery process, and those changes and new agreements will always be updated and reflected here.
 
--->
-```
-### Assignments
+To provide a brief overview, each week will involve readings from a variety of sources, including the textbook. All readings other than the textbook will be provided on blackboard. Our class meets two times per week on Mondays and Wednesdays.
 
-### Discussion Boards
+Weekly assignments may vary, but will generally take the form of blog posts. Students will be shown how to set-up a personal blog, and will contribute notes to the blog as a way to engage with course content. Students are strongly encouraged to be as creative as possible when "Blogging" this course, and class time will be spent on learning how to maximise the usefulness of blogging to substantially enhance engagement with content.
 
-### Assessments
+### Final Project
+
+The final project will involve writing our very own "People's Guide to NYC", and then sharing it online as website and online book. The model for the final project is our textbook. The textbook is organized as a series of short vignettes about people and places in NYC. Each student will be responsible for writing five of their own vignettes about the people of NYC. The topic of the vignettes will be researched across the semester. More detail on the final project will be forthcoming.
 
 ### Points and letter grades
 
-| Assignment        | Points |    Total |
-|:------------------|-------:|---------:|
-| 12 Weekly Modules |     5+ | up to 75 |
-| Assessment 1      |      5 |        5 |
-| Assessment 2      |     10 |       10 |
-| Final Assessment  |     10 |       10 |
-|                   |        |      100 |
+| Assignment                    |          Points | Total |
+|:------------------------------|----------------:|------:|
+| Weekly Assignments/Blog posts | about 3.57 each |    50 |
+| Five Minor points of interest |          2 each |    10 |
+| Five Major points of interest |          6 each |    30 |
+| Group walking tour            |              10 |    10 |
+|                               |                 |   100 |
 
 Percentage grades are converted to letter grades according to the following rubric.
 
