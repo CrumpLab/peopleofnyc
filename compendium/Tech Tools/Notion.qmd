@@ -1,0 +1,24 @@
+---
+title: "notion"
+author: "Matt Crump"
+---
+
+Notion.so is a very useful app that could help you workflow in general, and could be used to accomplish goals in this class.
+
+<https://notion.so>
+
+## Sign up for free with your student email
+
+You can sign up for free and get access to all of the features by using your student email (the one with the .edu at the end to show that you are student.)
+
+## What is notion?
+
+Notion has many functionalities and can be used for simple note-taking to running complicated workflows of all sorts in industry. It has many integrations with other web apps, and most things can be done without any coding.
+
+## Check it out
+
+At some point in class we will look at notion more closely, but for now you should check it out. I wasn't sure what to do with it at first, but it was fun to fiddle around with, and now I use it all the time.
+
+## How we could use notion in our class
+
+I'm going to fill this in later as we get closer to actually using it in class. To foreshadow, we can very quickly make new pages, and put many kinds of content into those pages, like text, media, databases, and many other assets. Everything we produce can be searchable and re-arrangeable later. We can group edit, and share everything (if we want) as web-pages. I'm using it for taking notes and saving assorted things that pass through my researching travels on the internet. We could even use it to build our whole book project for the semester. Lot's of possibilities.

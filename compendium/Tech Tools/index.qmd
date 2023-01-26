@@ -1,0 +1,26 @@
+---
+title: "Tech Tools"
+author: "Matt Crump"
+---
+
+The tech tools section of the compendium will contain useful technologies for this class and beyond.
+
+Major themes for all of these tools are useability and re-reuseability. We want tools that are useful, easy to use, or at least worth spending the effort to learn, and that will help us with our work. It is also great when the work you do now can be re-used later on when you need. Depending on how you do you work, your future self might have to redo all of it, and that isn't always desirable.
+
+As we move through this course we will be looking for ways to use tools that help us with our project, and help us make our work more accessible in the future.
+
+So, the tech tools section will be a place to introduce different platforms and apps, and talk about how they could be used in our workflow. Right now students can't contribute directly to the compendium, but this possibility can be unlocked throughout the course...However, we may decide to collaborate on content on a different platform and bring it here later, whatever works for us.
+
+## **General Suggestions**
+
+1.  Organize your computer file systems so you know where you are keeping things.
+
+2.  Create a folder for your courses, and then create individual folders inside for each course you take.
+
+3.  Create a folder for this course, and put assets for this course in that folder.
+
+4.  When sharing files that you have edited, add "\_yourname" to the file name.
+
+5.  Don't be afraid to take copious notes all of the time about things that interest you throughout this course. Do come up with systems to capture all of these thoughts and ideas so you don't lose them, and so you can get them back later.
+
+6.  Check out the tech tools in this section to learn how they could benefit your work flow. In general, we will also try to do class demonstrations about these over the semester.

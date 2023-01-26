@@ -76,7 +76,7 @@ Some of the general expectations for this class are set forth on the class websi
 
 <https://crumplab.com/peopleofnyc/compendium/Seminar_2_general_info.html>
 
-Our class will attempt to weave through several different goals. One goal is to become familiar with research methods used in the social sciences to ask and answer complex issues about people and society. Individual segments of the course are structured around specific methods. Another goal is to use digital technology to facilitate and share our research findings and process. This course will introduce you to many research technologies that will help you throughout your undergraduate experience, and helpful notes about using these tools will be uploaded to the [compendium](https://crumplab.com/peopleofnyc/compendium/) across the semester. A last major goal is to create a public-facing expression of our work as a class. To this end, we are going to produce our own student-authored, web-based version of the course textbook, complete with suggested walking tours. More on that throughout the semester. 
+Our class will attempt to weave through several different goals. One goal is to become familiar with research methods used in the social sciences to ask and answer complex issues about people and society. Individual segments of the course are structured around specific methods. Another goal is to use digital technology to facilitate and share our research findings and process. This course will introduce you to many research technologies that will help you throughout your undergraduate experience, and helpful notes about using these tools will be uploaded to the [compendium](https://crumplab.com/peopleofnyc/compendium/) across the semester. A last major goal is to create a public-facing expression of our work as a class. To this end, we are going to produce our own student-authored, web-based version of the course textbook, complete with suggested walking tours. More on that throughout the semester.
 
 ## Course Schedule
 
@@ -132,6 +132,12 @@ Percentage grades are converted to letter grades according to the following rubr
 ## Attendance
 
 Students are expected to attend and participate in each class.
+
+## Teaching and Leaning Collaboratory
+
+Students can book time with a member of TLC who can help them with using digital tools (like building an e-portfolio website) to giving practice talks. Make an appointment here:
+
+<http://calendly.com/tlchelp>
 
 ## Course Policies
 

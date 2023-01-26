@@ -1,0 +1,37 @@
+---
+title: "Quarto"
+author: "Matt Crump"
+---
+
+Quarto is an incredible set of tools for creating computationally reproducible documents. I use quarto **all of the time for everything**.
+
+<https://quarto.org>
+
+This course website is built with quarto. My lab website, <https://crumplab.com>, is built with quarto. [My blog](https://crumplab.com/Blog.html) is built with quarto. I've written textbooks that can be shared as web-books, pdfs, or ebooks, and I used quarto for that too. You can write slide-decks, and whole academic papers, and many other things with quarto. Quarto can also seamlessly integrate regular text with computer code, so you can create interactive documents, interactive web-apps, data-analytic dashboards, and many more things. 
+
+The quarto process I use relies on a combination of other tools, such as the programming language R, a user-interface to R called Rstudio, and a cloud-based hosting option for sharing everything online (I use github.com, which also provides version control and allows me to share source code and webpages). Teaching all of these tools are way beyond the scope of this class. 
+
+However, quarto makes many things easy, and it is possible to use the platform without much prior experience with coding. It also opens the door to learning new skills that could be very useful to you in the future. 
+
+As we get moving along, I will be encouraging each of you to create a personal website and blog. There are many ways to do this, and the TLC can help you do this with an e-portfolio site using word-press. I will be able to help you with a quarto blog.
+
+## Quarto blog
+
+We will find time in class to go over making a quarto blog, but if you want to jump ahead and try it yourself, then check out this blog post I wrote on how to do it.
+
+<https://crumplab.com/blog/post_887_8_25_22_quartoblog/>
+
+That post has a video and text-based walkthrough. If you run into issues just let me know, I'm here to help. 
+
+
+
+
+
+
+
+
+
+
+
+
+
