@@ -3,21 +3,21 @@ title: "notion"
 author: "Matt Crump"
 ---
 
-Notion.so is a very useful app that could help you workflow in general, and could be used to accomplish goals in this class.
+Notion.so is a very useful app that could help you rworkflow in general and be used to accomplish many goals in this class.
 
 <https://notion.so>
 
 ## Sign up for free with your student email
 
-You can sign up for free and get access to all of the features by using your student email (the one with the .edu at the end to show that you are student.)
+You can sign up for free and get access to all of the features by using your student email (the one with .edu at the end.)
 
 ## What is notion?
 
-Notion has many functionalities and can be used for simple note-taking to running complicated workflows of all sorts in industry. It has many integrations with other web apps, and most things can be done without any coding.
+Notion has many functionalities from simple note taking to running complicated workflows in business situations. It has many integrations with other web apps, and most things can be done without any coding.
 
 ## Check it out
 
-At some point in class we will look at notion more closely, but for now you should check it out. I wasn't sure what to do with it at first, but it was fun to fiddle around with, and now I use it all the time.
+At some point in class we will look at notion more closely, but for now you should check it out. I wasn't sure what to do with it at first, but it was fun to fiddle around with and now I use it all the time.
 
 ## How we could use notion in our class
 
