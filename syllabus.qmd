@@ -80,7 +80,7 @@ Our class will attempt to weave through several different goals. One goal is to 
 
 ## Course Schedule
 
-This is a rough schedule to keep us on track. Goals and dates may change as a result of class discussion.
+This is a rough schedule to keep us on track. Goals and dates are changing as a result of class discussion.
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
 

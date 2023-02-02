@@ -1,0 +1,37 @@
+---
+title: "New classroom and discussion groups"
+author: "Matt Crump"
+date: '2023-1-30'
+date-modified: last-modified
+categories:
+  - general
+execute:
+  echo: false
+  warning: false
+  message: false
+bibliography: [references.bib]
+---
+
+The class assignment was to read the introduction of our textbook [@bankmuñoz2022] and be prepared to discuss it.
+
+I learned how to make room change requests (through BC webcentral), and our new room had more space to move around and reconfigure depending on what we were doing.
+
+We established a pattern that should hold well across the course for reading and discussion. Readings will generally be assigned on Wednesday for discussion on Monday. This gives more days to complete the readings. Wednesday can be some discussion overflow, but mostly for in-class work-shopping.
+
+The textbook is one general reading goal for the semester, and there are several others as well that will be provided on blackboard. The non-textbook readings are not yet announced because they are TBD through our class discussions. The advantage is the readings can be responsive to the dynamics of our discussion. The disadvantage is that no one can read ahead if they don't know what we might read besides the textbook.
+
+I'm rapidly developing a solution in the form of a shared zotero library. This library will contain all the additional readings, as well as suggested readings, and class researched materials. The zotero library should be available mid-February or earlier.
+
+## Group discussions
+
+In this class we used a small group discussion format to ease into a discussion of course themes and the textbook introduction. Groups were 4 or 5 students each. The groups had 5 minutes to discuss a prompt. After discussion each group leader reported back a summary of the group discussion to the whole class. For the next discussion prompt, the group chose a new leader who would report back to the class. Some of our discussion prompts were:
+
+1.  Get to know each other for 5 minutes (totally unstructured)
+2.  What did you find interesting about the reading?
+3.  What guidelines should we keep in mind for having productive, mindful and constructive conversations.
+4.  Let\'s talk about your reading process. What did you do as you read this chapter? What was your process?
+5.  Based on the reading as a whole, what is/are the purpose(s) of this book?
+
+The intro had four major sections, and the last discussion prompt was for each group to take one section and discuss it, and then report back. We ran out of time on this one, and took a paragraph-by-paragraph approach in the next class.
+
+## 

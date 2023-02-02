@@ -26,6 +26,8 @@ website:
         file: compendium/index.qmd
     right: 
       - about.qmd
+      - text: "Blog"
+        file: blog.qmd
       - text: "Quarto Examples"
         menu:
           - example_pages/quarto_help.qmd

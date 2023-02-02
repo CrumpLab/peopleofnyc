@@ -1,0 +1,15 @@
+---
+title: "Blog"
+listing:
+  contents: blog
+  sort: "date desc"
+  type: table
+  image-placeholder: "../imgs/logo.jpg"
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+This is a course blog for our version of Seminar 2. It will start out as an instructor blog, and my plan is to contribute posts roughly once a week about things we have accomplished in class and/or plan to do next. This blog could be helpful as a reference for us as we go through the semester, and it could be helpful for other sections now or later.

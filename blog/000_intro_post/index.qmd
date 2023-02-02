@@ -1,0 +1,37 @@
+---
+title: "Day one"
+author: "Matt Crump"
+date: '2023-1-25'
+date-modified: last-modified
+categories:
+  - general
+execute:
+  echo: false
+  warning: false
+  message: false
+bibliography: [references.bib]
+---
+
+This is a retrospective contribution. The blog part of this website was created on February 2nd. The class was held on Wednesday, January, 25th.
+
+My goal for the first class was to meet everyone and give some overview of the goals for the course.
+
+The room was too small and too hot. We we went around the room introduced ourselves. I asked everyone to share something about what they learned in the first Macaulay seminar, which was focused on Art in NYC.
+
+I introduced the concept of the final project and described a few different digital technologies we would learn about throughout the course. Some of the tech tools like notion, zotero, and quarto were since added to the [compendium](../../compendium/index.qmd). A full description of the final project has not been produced yet, but will become available as the class narrows down on its goals through discussion.
+
+The major assignment was to read the introduction of our textbook [@bankmuñoz2022] and be prepared to discuss it for next class.
+
+## Behind the scenes organizational stuff
+
+This is my first time teaching Seminar 2. I usually teach [cognition and statistics](https://crumplab.com/Courses.html) related courses. Another first is using [notion.so](https://www.notion.so) to organize the course.
+
+This course website and blog is being written using [quarto](https://quarto.org), but notion is where most of the planning is happening.
+
+Notion has a lot to offer, and I'm barely scratching the surface. I have a single document for this course in notion, and this contains all sorts of other notion pages and collected notes. Inline databases are the most useful feature for course organization.
+
+The inline database is great for creating a schedule because it has a calendar view making it easy to select individual dates for each class. It's possible to export the database as markdown and csv, which made it easy to pop into the [syllabus](../../syllabus.qmd).
+
+![](images/Screenshot%202023-02-02%20at%208.32.59%20AM.png)
+
+The most interesting part is the ability to add notion pages inside pages, and inside of database entries. For example, the entry for January 30th has a notion page, which is showing up on the right-hand side of the screen. This is a useful location to write class notes, announcements, brainstorm possible activities for next class, and generally link organizational material to specific classes. If I end up teaching this class again, I can come back and see what was happening on a class-by-class basis. I liked notion so much that I'm using it to organize all my other classes.

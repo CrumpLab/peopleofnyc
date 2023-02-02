@@ -1,0 +1,39 @@
+---
+title: "Big circle slow read"
+author: "Matt Crump"
+date: '2023-2-2'
+date-modified: last-modified
+categories:
+  - general
+execute:
+  echo: false
+  warning: false
+  message: false
+bibliography: [references.bib]
+---
+
+We already read and discussed the introduction to our textbook [@bankmuñoz2022]. This class was about trying a different method of class discussion.
+
+The room was big enough to make a big circle for all of us. We sat down opened to the first page of the introduction and had discussion about each paragraph, one at a time.
+
+Discussion goals were to extract and talk about:
+
+1.  What was the paragraph about
+2.  What kind of work is this paragraph doing in the overall narrative of the introduction
+3.  What themes or issues did this bring up that you want to discuss?
+4.  How is the paragraph setting up future content in the introduction, or resonating with prior content
+5.  How are claims in these paragraphs being supported?
+
+And so on.
+
+We only got through the first 4-5 pages, but there wasn't a posted speed limit, so our pace was totally fine for emphasizing depth over breadth.
+
+## Moderating equal time
+
+The class organically did a good job of sharing the floor in terms of who was generating discussion about each paragraph. I came prepared to moderate this if necessary. I printed out a spreadsheet with everyone's name and started to check off boxes whenever anyone spoke. My plan was to make sure everyone was contributing as much as possible. I found it difficult to listen and search for boxes to check at the same time, so I stopped tracking this.
+
+I remember seeing a discussion tracking activity somewhere that could be an alternative. It looked something like this:
+
+![](images/tracking_discussion.jpg)Each person gets a sheet of paper, and as the group has a discussion the members trace lines show who spoke. The paper keeps a record of turn taking. We might try this at some point to see how it lands.
+
+## 
