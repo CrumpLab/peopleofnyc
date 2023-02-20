@@ -1,0 +1,21 @@
+---
+title: "Presentations and notion.so"
+author: "Matt Crump"
+date: '2023-2-16'
+date-modified: last-modified
+categories:
+  - general
+execute:
+  echo: false
+  warning: false
+  message: false
+bibliography: [references.bib]
+---
+
+It's been a couple weeks since my last post. The reading for week 2 was the chapter on The Bronx [@bankmuñoz2022]. The monday class session involved students pairing up in groups of 2 or 3, choosing one site from the reading, and working together to create a 3-minute class presentation about the site for the following Wednesday class. We talked as a class about goals for presentation content and style, and keeping everything within 3 minutes. The Wednesday class involved about 10 presentations, with time after each one for questions and and comments. This was a lively week with excellent participation and presentations.
+
+The assignment for week 3 had two components: sign up for a free account at [notion.so](https://notion.so), then read through the Manhattan chapter and take notes about sites that were interesting and put your notes into notion.
+
+What is notion? A bunch of things. It's a cloud-based productivity app with many features. It's really simple to use a text editor. Everything is based on making "pages" that you can put things into, just like any word-processor. It's possible to put pages within pages, most types of media, and even inline databases. There are many integrations with other web apps. Notion pages can be shared on the internet with a single click. And, it is possible to create teamspaces, where multiple people can work together. Kind of like group editing a google doc, but with a different feature set.
+
+It's now week 4, and the class is moved onto notion. We will likely stay working there for the semester, and then archive our work publicly at the end.

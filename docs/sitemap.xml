@@ -2,122 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://crumplab.com/peopleofnyc/index.html</loc>
-    <lastmod>2023-02-02T14:31:25.742Z</lastmod>
+    <lastmod>2023-02-20T13:17:40.261Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/blog/003_presentations_notion/index.html</loc>
+    <lastmod>2023-02-20T13:17:41.300Z</lastmod>
   </url>
   <url>
     <loc>https://crumplab.com/peopleofnyc/blog/000_intro_post/index.html</loc>
-    <lastmod>2023-02-02T14:42:39.353Z</lastmod>
+    <lastmod>2023-02-20T13:17:41.776Z</lastmod>
   </url>
   <url>
     <loc>https://crumplab.com/peopleofnyc/blog/001_new_classroom/index.html</loc>
-    <lastmod>2023-02-02T14:43:01.650Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/about.html</loc>
-    <lastmod>2023-02-02T14:08:03.448Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/project/1_chpt.html</loc>
-    <lastmod>2023-02-02T14:08:03.836Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/project/intro.html</loc>
-    <lastmod>2023-02-02T14:08:04.259Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/project/3_chpt.html</loc>
-    <lastmod>2023-02-02T14:08:04.671Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/project/2_chpt.html</loc>
-    <lastmod>2023-02-02T14:08:05.077Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/project/4_chpt.html</loc>
-    <lastmod>2023-02-02T14:08:05.465Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/project/5_chpt.html</loc>
-    <lastmod>2023-02-02T14:08:05.872Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_help.html</loc>
-    <lastmod>2023-02-02T14:08:09.405Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_about_jolla.html</loc>
-    <lastmod>2023-02-02T14:08:09.820Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_none.html</loc>
-    <lastmod>2023-02-02T14:08:10.154Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_about_broadside.html</loc>
-    <lastmod>2023-02-02T14:08:10.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/example_pages/people_page_1.html</loc>
-    <lastmod>2023-02-02T14:08:12.315Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_about_solana.html</loc>
-    <lastmod>2023-02-02T14:08:12.752Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_about_trestles.html</loc>
-    <lastmod>2023-02-02T14:08:13.160Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_theme.html</loc>
-    <lastmod>2023-02-02T14:08:13.594Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_about_marquee.html</loc>
-    <lastmod>2023-02-02T14:08:13.999Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/example_pages/generate_art.html</loc>
-    <lastmod>2023-02-02T14:08:16.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/syllabus.html</loc>
-    <lastmod>2023-02-02T14:08:18.422Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/compendium/Tech Tools/Zotero.html</loc>
-    <lastmod>2023-02-02T14:08:18.878Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/compendium/Tech Tools/tlc.html</loc>
-    <lastmod>2023-02-02T14:08:19.329Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/compendium/Tech Tools/Notion.html</loc>
-    <lastmod>2023-02-02T14:08:19.790Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/compendium/Tech Tools/index.html</loc>
-    <lastmod>2023-02-02T14:08:20.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/compendium/Tech Tools/quarto.html</loc>
-    <lastmod>2023-02-02T14:08:20.699Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/compendium/index.html</loc>
-    <lastmod>2023-02-02T14:08:21.122Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/compendium/Seminar_2_general_info.html</loc>
-    <lastmod>2023-02-02T14:08:21.595Z</lastmod>
-  </url>
-  <url>
-    <loc>https://crumplab.com/peopleofnyc/blog.html</loc>
-    <lastmod>2023-02-02T14:43:12.099Z</lastmod>
+    <lastmod>2023-02-20T13:17:42.252Z</lastmod>
   </url>
   <url>
     <loc>https://crumplab.com/peopleofnyc/blog/002_slow_read/index.html</loc>
-    <lastmod>2023-02-02T14:43:11.640Z</lastmod>
+    <lastmod>2023-02-20T13:17:42.700Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/about.html</loc>
+    <lastmod>2023-02-20T13:17:43.101Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/project/1_chpt.html</loc>
+    <lastmod>2023-02-20T13:17:43.495Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/project/intro.html</loc>
+    <lastmod>2023-02-20T13:17:43.893Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/project/3_chpt.html</loc>
+    <lastmod>2023-02-20T13:17:44.302Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/project/2_chpt.html</loc>
+    <lastmod>2023-02-20T13:17:44.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/project/4_chpt.html</loc>
+    <lastmod>2023-02-20T13:17:45.118Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/project/5_chpt.html</loc>
+    <lastmod>2023-02-20T13:17:45.537Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_help.html</loc>
+    <lastmod>2023-02-20T13:17:49.353Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_about_jolla.html</loc>
+    <lastmod>2023-02-20T13:17:49.782Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_none.html</loc>
+    <lastmod>2023-02-20T13:17:50.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_about_broadside.html</loc>
+    <lastmod>2023-02-20T13:17:50.563Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/example_pages/people_page_1.html</loc>
+    <lastmod>2023-02-20T13:17:52.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_about_solana.html</loc>
+    <lastmod>2023-02-20T13:17:52.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_about_trestles.html</loc>
+    <lastmod>2023-02-20T13:17:53.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_theme.html</loc>
+    <lastmod>2023-02-20T13:17:53.518Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/example_pages/quarto_about_marquee.html</loc>
+    <lastmod>2023-02-20T13:17:53.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/example_pages/generate_art.html</loc>
+    <lastmod>2023-02-20T13:17:56.003Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/syllabus.html</loc>
+    <lastmod>2023-02-20T13:17:59.167Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/compendium/Tech Tools/Zotero.html</loc>
+    <lastmod>2023-02-20T13:17:59.620Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/compendium/Tech Tools/tlc.html</loc>
+    <lastmod>2023-02-20T13:18:00.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/compendium/Tech Tools/Notion.html</loc>
+    <lastmod>2023-02-20T13:18:00.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/compendium/Tech Tools/index.html</loc>
+    <lastmod>2023-02-20T13:18:00.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/compendium/Tech Tools/quarto.html</loc>
+    <lastmod>2023-02-20T13:18:01.334Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/compendium/index.html</loc>
+    <lastmod>2023-02-20T13:18:01.778Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/compendium/Seminar_2_general_info.html</loc>
+    <lastmod>2023-02-20T13:18:02.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crumplab.com/peopleofnyc/blog.html</loc>
+    <lastmod>2023-02-20T13:18:02.785Z</lastmod>
   </url>
 </urlset>
