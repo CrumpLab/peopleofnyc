@@ -13,7 +13,7 @@ format:
 ::: callout-important
 ## Under construction
 
-This syllabus is under construction throughout the semester as we discuss and modify how to engage with the learning goals for this course.
+This syllabus is under construction throughout the semester as we discuss and modify how to engage with the learning goals for this course. Updated 4/2/23
 :::
 
 Spring 2023
