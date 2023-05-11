@@ -24,6 +24,8 @@ website:
       #  file: project/intro.qmd
       - text: "Compendium"
         file: compendium/index.qmd
+      - text: "Book Project"
+        file: book/index.qmd
     right: 
       - about.qmd
       - text: "Blog"
@@ -59,6 +61,11 @@ website:
       collapse-level: 2
       align: left
       contents: compendium
+    - title: "Book Project"
+      style: "floating"
+      collapse-level: 3
+      align: left
+      contents: book
     - title: "Syllabus"
       contents:
         - syllabus.qmd

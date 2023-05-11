@@ -4,7 +4,6 @@ format:
   html: 
     theme: quartz
     css: css/home.css
-    fontcolor: white
     page-layout: full
 ---
 

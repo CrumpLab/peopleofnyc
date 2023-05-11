@@ -6,6 +6,7 @@ format:
     theme: cosmo
     css: css/styles.css
     toc: true
+  pdf: default
 ---
 
 ### Seminar 2: People of New York City
@@ -13,7 +14,7 @@ format:
 ::: callout-important
 ## Under construction
 
-This syllabus is under construction throughout the semester as we discuss and modify how to engage with the learning goals for this course. Updated 4/2/23
+This syllabus is under construction throughout the semester as we discuss and modify how to engage with the learning goals for this course. Updated 5/11/23
 :::
 
 Spring 2023
@@ -60,7 +61,7 @@ Students will:
 
 ## Course Materials
 
-All of the course materials will be available in a timely fashion on this course website and/or posted on blackboard.
+All of the course materials will be available in a timely fashion on this course website and/or posted on blackboard. Note, midway through this course we created a shared notion workspace, and all additional readings are also available on notion.
 
 Link to the course website: <https://www.crumplab.com/peopleofnyc/>
 
@@ -80,7 +81,7 @@ Our class will attempt to weave through several different goals. One goal is to 
 
 ## Course Schedule
 
-This is a rough schedule to keep us on track. Goals and dates are changing as a result of class discussion.
+This is a rough schedule to keep us on track. Goals and dates are changing as a result of class discussion. Most of the information for individual classes is now posted on the class Notion account.
 
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
 
@@ -99,17 +100,16 @@ Weekly assignments may vary, but will generally take the form of blog posts. Stu
 
 ### Final Project
 
-The final project will involve writing our very own "People's Guide to NYC", and then sharing it online as website and online book. The model for the final project is our textbook. The textbook is organized as a series of short vignettes about people and places in NYC. Each student will be responsible for writing five of their own vignettes about the people of NYC. The topic of the vignettes will be researched across the semester. More detail on the final project will be forthcoming.
+The final project will involve writing our very own "People's Guide to NYC", and then sharing it online as website and online book. The model for the final project is our textbook. The textbook is organized as a series of short vignettes about people and places in NYC. Each student will be responsible for writing five of their own vignettes about the people of NYC. The topic of the vignettes will be researched across the semester. More detail on the final project is available on the shared notion workspace.
 
 ### Points and letter grades
 
-| Assignment                    |          Points | Total |
-|:------------------------------|----------------:|------:|
-| Weekly Assignments/Blog posts | about 3.57 each |    50 |
-| Five Minor points of interest |          2 each |    10 |
-| Five Major points of interest |          6 each |    30 |
-| Group walking tour            |              10 |    10 |
-|                               |                 |   100 |
+| Assignment                                    |          Points | Total |
+|:----------------------------------------------|----------------:|------:|
+| Weekly Assignments/Blog posts                 | about 4.28 each |    60 |
+| Five Minor points of interest (final project) |          2 each |    10 |
+| Five Major points of interest (final project) |          6 each |    30 |
+|                                               |                 |   100 |
 
 Percentage grades are converted to letter grades according to the following rubric.
 
@@ -145,7 +145,7 @@ Students can book time with a member of TLC who can help them with using digital
 
 Due dates are suggestions for completing coursework on a weekly basis. You may be able to work ahead, but you are not encouraged to fall behind.
 
-You should email me if you have an exceptional circumstance preventing you from taking an assessment during an assessment week.
+You should email me if you have an exceptional circumstance preventing you from participating in class.
 
 ### Changes to the syllabus
 
