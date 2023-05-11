@@ -1,0 +1,52 @@
+---
+author: "Carina Alessandro"
+title: "Internet Access"
+date: "5/11/23"
+---
+
+In the years 2020 and 2021, students across the country spent their mornings and early afternoons connecting with their classmates and teachers through zoom, while many of their guardians worked from home, attending meetings and working digitally. It wasn’t a perfect system, though— some had to interrupt to apologize that they couldn’t participate at the  moment because the audio keeps cutting, or the internet is too slow. In NYC, a quarter of households— a high percentage being black, hispanic, low-income, and/or senior— lack a broadband subscription. Between 11 and 13 percent of students of the DOE had inadequate internet access during remote learning. What the pandemic taught us, among other things, is that our society relies on the internet and the already marginalized are further disadvantaged by lacking access to it (“Access to Internet in NYC”).
+
+To improve these conditions— due in large part to “digital redlining” in which internet service providers exhibit discrimination in internet infrastructure in specific geographic areas, facilitating little competition to compete for customers and, therefore, little affordable service— the mayor’s fund supports the digital inclusion fund and the Office of Technology & innovation launched the NYC Internet Master Plan. The National Digital Inclusion Alliance, who’s found examples of the digital redlining which “put redlined communities at a significant disadvantage in attracting and retaining residents and businesses, compared to better-served neighboring areas” contains the New York fund which “supports a range of non-profit partners to deliver equipment and digital literacy programs, enabling public housing residents to maximize their economic and educational advancement” (“New York Digital Inclusion Fund” and *Current Initiatives - Mayor’s Fund*).
+
+The NYC Internet Master Plan, released to give New Yorkers access to necessary tools for “every facet of their lives, including employment, housing, health, and government services,” led to bills aiming to “provide mobile hotspot devices to public school students, raise awareness of affordable internet programs, and increase transparency around cable franchise agreements” (“New York City to Close Digital Divide for 1.6 Million Residents” and “Access to Internet in NYC”). The plan has, for example,  started deployment of fiber-optic internet into two affordable housing complexes, and the website already includes portals to amenities such as childcare tracking, online 311, open data, and a wifi kiosk finder—all of which would be thoroughly difficult to find without internet. It even has vaccine appointment finders, mobile apps for emergency updating, a food donation/receiving finder, a work ticket manager, and a crime reporting tool (*NYC Office of Technology and Innovation*). Having access to these amenities put people at a significant advantage, so it’s extremely important that the city has initiatives to incentivize and support its inclusion for all its residents. 
+
+Works Cited (annotated):
+
+“Access to Internet in NYC.” *Data Team*, https://council.nyc.gov/data/internet-access/. Accessed 2 Apr. 2023.
+
+- “The coronavirus pandemic has laid bare many of the inequalities, including the differences in access to broadband Internet.”
+- “at least two hearings on the City Internet Master Plan and the digital divide” “The introduced bills for the hearing aim to provide public access to wireless networks, provide mobile hotspot devices to public school students, raise awareness of affordable internet programs, and increase transparency around cable franchise agreements.”
+    - About a quarter of New York City households lacked a broadband subscription at home and the percentage was even higher for Black, Hispanic, low-income, and senior households.
+    - For some community districts — many in the Bronx and high-poverty areas — over 40% of households did not have high-speed broadband service.
+    - Between 11 and 13 percent of NYC DOE students in each borough lacked access to adequate internet at home during remote learning.
+- new bills:
+    - Providing public school students with mobile hotspot devices. [Int. 241](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=5570459&GUID=E6694756-E9C4-422A-AE3A-39921DF0CBFF&Options=&Search=)
+    - Information on affordable internet programs for students and families [Int. 599](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=5725326&GUID=E7996565-11E5-4E7A-B58E-97D5A8E612E6&Options=&Search=)
+    - A program to provide public access to wireless networks [Int. 440](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=5656553&GUID=91EA5C2A-3593-41A4-BB94-566B3D61C603&Options=&Search=)
+    - Establishing a cable franchise agreements website [Int. 112](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=5534243&GUID=71DE4A32-8C8A-4664-BC46-9BEA0F8BA90C&Options=&Search=)
+
+*Current Initiatives - Mayor’s Fund*. https://www.nyc.gov/site/fund/initiatives/current-initiatives.page. Accessed 2 Apr. 2023.
+
+- List of current initiatives including digital access. note it was one of about fifty others. gave a summary of each . For digital inclusion fund:
+- “New York City has committed to bridging the digital divide by providing free in-home wireless broadband service to more than 21,000 public housing residents, yet it is insufficient to provide free broadband service if residents are not able to realize the social, economic, and civic opportunities that broadband creates. The Mayor's Fund to Advance New York City and the Mayor's Office of the Chief Technology Officer launched the Digital Inclusion Fund to address the most formidable barriers residents face in using broadband to increase economic opportunity, enhance education, and strengthen civic engagement. The Digital Inclusion Fund supports a range of non-profit partners to deliver equipment and digital literacy programs, enabling public housing residents to maximize their economic and educational advancement.”
+
+“New York City to Close Digital Divide for 1.6 Million Residents, Advance Racial Equity.” *The Official Website of the City of New York*, 28 Oct. 2021, http://www.nyc.gov/office-of-the-mayor/news/724-21/new-york-city-close-digital-divide-1-6-million-residents-advance-racial-equity.
+
+- gave statistics on how nyc residents are lacking the internet access they need, and why they need it
+- “Today, people need internet access to engage in almost every facet of their lives, including employment, housing, health, and government services.”
+- “The Internet Master Plan is accelerating broadband deployment to address racial inequities by prioritizing public housing communities, which have previously suffered from decades of digital redlining.”
+- “Disparities in internet infrastructure and Internet Service Providers (ISP) are especially concentrated in specific geographic areas – the South Bronx, Upper Manhattan, Southeastern Queens, and Central Brooklyn – which experience some of the city’s highest rates of neighborhood poverty. New Yorkers in these neighborhoods have fewer service options, which can lead to less affordable service, as long-serving incumbent ISPs are disincentivized to compete for customers.”
+- “Flume has rapidly deployed fiber into the first two complexes at NYCHA and is looking forward to completing the Phase 1 implementation of the NYC Internet Master Plan in the coming month,” said **Prashanth Vijay, Co-Founder & CEO, Flume Internet**.“
+
+“New York Digital Inclusion Fund.” *National Digital Inclusion Alliance*, https://www.digitalinclusion.org/nydifund/. Accessed 2 Apr. 2023.
+
+- website of the digital inclusion fund itself and where they grant money.
+- “NDIA and others have documented numerous examples of digital redlining, i.e. discrimination by internet service providers in the deployment, maintenance, or upgrade of infrastructure or delivery of services.” “Slow, unreliable broadband service and the absence of normal competition among providers can put redlined communities at a significant disadvantage in attracting and retaining residents and businesses, compared to better-served neighboring areas.”
+
+*NYC Office of Technology and Innovation - OTI*. https://www.nyc.gov/content/oti/pages/. Accessed 2 Apr. 2023.
+
+- office of technology and innovation
+- focuses on the benefits of technology and what people having it can do for society
+- list of free services they offer
+    - tracking child care, online 311, open data, wifi (linknyc) kiosk finder
+- also includes things that highlight how much we rely on and prioritize digitally,, like it has a vaccine appointment finder here and mobile apps for emergency updating, finding/giving food, crime reporting, managing work tickets, etc

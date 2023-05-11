@@ -1,0 +1,27 @@
+---
+author: "Chaim Ilowitz"
+title: "The Small Business Administration"
+date: "5/11/23"
+---
+
+Small businesses are a major component of a healthy and growing economy. Small businesses provide more jobs, careers, and opportunities for people. Their payrolls and taxes are the way that small businesses give back to the community. For the average American, the issue that arises is how to actually start a small business. The amount of beginning capital that is required is astronomical and these people need counseling in how to start, manage, and grow their small business. In addition, the average survival rate for a new firm is two years, and 44% of small businesses fail within two years. Furthermore, 81% fail within ten years. So the question begs, how are people that seek to open a small business supposed to get the help they need to succeed? To provide context to the answer, we will examine a story of a small business owner and how he managed to start and expand his business. 
+
+Jesse Camacho grew up in Puerto Rico and settled in the South Bronx. After he got laid off from his sales job, he set up his own shop and continued selling cleaning products by himself. However, he didn’t know where to start in securing contracts with federal agencies and to expand his network. This is when he came across the Small Business Administration. They helped him with the 8(a) Business Development program, and coached him in many areas of business. Now, he has secured many contracts with federal agencies and has ten employees working for him in a thriving business.
+
+This is how the Small Business Administration can help small businesses. Created in 1953 by Dwight D. Eisenhower as an independent agency of the federal government, this organization aims to help people plan, launch, manage, and grow their small businesses. They provide counseling services free of charge, business loans, home and disaster loans, and help to win government contracts for small businesses. 
+
+However, there are many major issues regarding the Small Business Administration. For one, small businesses are still failing at astronomical rates. That begs the question: is the Small Business Administration really helping small businesses at all? If so many small businesses are failing within a just a couple years of starting out, then maybe the Small Business Administration is not solving the real issues at hand and is just profiting off the interest on the loans and giving these small business owners false hope in that they can cultivate thriving businesses. The other major issue is that in the early days of the pandemic, the Small Business Administration gave out $4.5 billion in grants based on the number of employees working in the business. People lied about the amount of employees they had and claimed so much money from the program. This shows us that the administration really had no idea what they were doing when they were practically handing out money to anyone that accepted it. These are some of the major issues that plague the Small Business Administration to this day, and we hope they can get a handle on it and solve the real issues at play here. 
+
+## Sources
+
+Craig, B. R., Jackson III, W. E., & Thomson, J. B. (2007). Small Firm Finance, Credit Rationing, and the Impact of SBA-Guaranteed Lending on Local Economic Growth. *Journal of Small Business Management*, *45*(1), 116–132. [https://doi.org/10.1111/j.1540-627X.2007.00202.x](https://doi.org/10.1111/j.1540-627X.2007.00202.x)
+
+Jr, B. H. W., & Bo, K. M. (2007). *SBA Partners Help Small Businesses*.
+
+[Jr and Bo - 2007 - SBA Partners Help Small Businesses.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37fe260b-98df-4001-8e7d-9c30eb1f513d/Jr_and_Bo_-_2007_-_SBA_Partners_Help_Small_Businesses.pdf)
+
+*S.B.A. Overpaid $4.5 Billion on ‘Illogical’ Small Business Grant Claims—The New York Times*. (n.d.). Retrieved March 27, 2023, from [https://www.nytimes.com/2021/10/07/business/fraud-small-business-administration.html](https://www.nytimes.com/2021/10/07/business/fraud-small-business-administration.html)
+
+*Success stories | U.S. Small Business Administration*. (n.d.). Retrieved March 27, 2023, from [https://www.sba.gov/success-stories](https://www.sba.gov/success-stories)
+
+*The efficacy of SBA loans on small firm survival rates | Journal of Small Business Strategy (archive only)*. (n.d.). Retrieved March 27, 2023, from [https://libjournals.mtsu.edu/index.php/jsbs/article/view/1590](https://libjournals.mtsu.edu/index.php/jsbs/article/view/1590)

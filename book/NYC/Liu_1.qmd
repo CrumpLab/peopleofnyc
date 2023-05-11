@@ -1,0 +1,35 @@
+---
+author: "Cobe Liu"
+title: "De Blasio’s Rat Elimination Initiative"
+date: "5/11/23"
+---
+
+In 2017, the de Blasio administration announced a $32 million neighborhood rat reduction plan. The plan aimed to reduce rat populations in Lower Manhattan, Bushwick in Brooklyn, and the Grand Concourse area in the Bronx by implementing various strategies such as increased garbage pickup, rat-proof garbage cans, and dry ice extermination. The less obvious, more innovative, and more ethically ambiguous methods such as expanding the use of dry ice extermination and rat birth control stand out. These efforts have been accompanied by community outreach and education programs to help residents better understand how to prevent rat infestations in their neighborhoods.
+
+In each of the government reports, the city has emphasized the ways in which rats lead to the spread of disease. One recent study, from the *American Society of Microbiology*, reported that rats in NYC have tested positive for antibodies for SARS-CoV-2. The delta variant was particularly infectious among rats. There needs to be more research to find out whether rats can give the virus back to humans. However, this among many other data points, highlight the dangers of large rat infestations.
+
+Despite some skepticism from residents and experts who questioned its effectiveness and the sustainability of its methods, the administration defended the plan, stating that it was a comprehensive effort to address the city's rat problem. The City reported a 10% reduction in the number of rat sightings in the target neighborhoods.
+
+Furthermore, a study by Michael G. Walsh in *PeerJ* found that rat sightings in New York City were associated with neighborhood sociodemographics, housing characteristics, and proximity to open public space. The study concluded that a combination of structural improvements, such as better waste management and building maintenance, and community education and engagement were necessary to effectively control rat populations in the city. Based on these findings, the City has also focused on addressing the root causes of rat infestations, such as poor waste management and inadequate building maintenance, in addition to implementing targeted interventions.
+
+Before this improvement initiative, the *Journal of Public Health Management and Practice*, reported that tracking infrastructure, such as Geographic Information Systems (GIS), can be used to map and monitor rat sightings and infestations in real-time. This information can be used to identify high-risk areas and develop targeted interventions to prevent and control rat infestations. However, there is no indication on whether method was implemented in the decisions made during de Blasio’s initiative.
+
+Since de Blasio’s initiative, Mayor Adams has picked up where de Blasio left off in an attempt to further reduce rat populations in NYC. In fact, on April 1st, 2023, a smaller trash time window will be enforced such that trash spends less time on NYC streets where rats can feast.
+
+Overall, for most New Yorkers, it is probably surprising how much technology, money and resources have been spent on rat reduction. When taken at face value, the issue seems obvious, but not necessarily something to pour millions of dollars into. 
+
+# Sources
+
+“De Blasio Administration Announces $32 Million Neighborhood Rat Reduction Plan.” *The Official Website of the City of New York*, 12 July 2017, http://www.nyc.gov/office-of-the-mayor/news/472-17/de-blasio-administration-32-million-neighborhood-rat-reduction-plan.
+
+Goodman, J. David. “Mayor Offers $32 Million Plan to Ice Some Rats. Hopefully.” *The New York Times*, 13 July 2017. *NYTimes.com*, https://www.nytimes.com/2017/07/12/nyregion/new-york-city-rat-problem.html.
+
+Jeffery, Nancy Loder, et al. “Using Tracking Infrastructure to Support Public Health Programs, Policies, and Emergency Response in New York City.” *Journal of Public Health Management and Practice*, vol. 21, no. Supplement 2, Mar. 2015, pp. S102–06. *DOI.org (Crossref)*, https://doi.org/10.1097/PHH.0000000000000170.
+
+“Mayor Adams, Sanitation Commissioner Tisch Announce Drastically Reduced Hours Trash Will Sit on NYC.” *The Official Website of the City of New York*, 17 Oct. 2022, http://www.nyc.gov/office-of-the-mayor/news/754-22/mayor-adams-sanitation-commissioner-tisch-drastically-reduced-hours-trash-will-sit-nyc.
+
+“Mayor de Blasio Targets Rats for Extermination at 10 NYCHA Developments.” *The Official Website of the City of New York*, 17 Apr. 2018, http://www.nyc.gov/office-of-the-mayor/news/195-18/mayor-de-blasio-targets-rats-extermination-10-nycha-developments.
+
+Walsh, Michael G. “Rat Sightings in New York City Are Associated with Neighborhood Sociodemographics, Housing Characteristics, and Proximity to Open Public Space.” *PeerJ*, vol. 2, Aug. 2014, pp. e533–e533. *go.gale.com*, https://doi.org/10.7717/peerj.533.
+
+Wang, Yang, et al. “SARS-CoV-2 Exposure in Norway Rats (Rattus Norvegicus) from New York City.” *MBio*, vol. 0, no. 0, Mar. 2023, pp. e03621-22. *journals.asm.org (Atypon)*, https://doi.org/10.1128/mbio.03621-22.
