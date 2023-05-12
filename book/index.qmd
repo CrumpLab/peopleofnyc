@@ -13,4 +13,4 @@ knitr::include_graphics("cover.jpg")
 
 This is a Seminar 2 student-written guide to the people and places of New York City. We modeled our guide-book after "A people's guide to New York City" (Muñoz, Lewis, & Tumpson Molina, 2022), which also served as our primary textbook for the course. 
 
-We are currently nearing the end of the semester, and this book is currently under construction until the end of May 2023. 
+We are currently nearing the end of the semester, and this book is under construction until the end of May 2023. 
