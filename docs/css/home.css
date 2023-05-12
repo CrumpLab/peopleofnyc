@@ -1,0 +1,15 @@
+/* css styles */
+
+.quarto-title-banner {
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
+
+
+main {
+  margin-top: 0;
+}
+
+#quarto-content > *  {
+  padding-top: 0;
+}
