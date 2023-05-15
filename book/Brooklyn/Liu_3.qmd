@@ -10,7 +10,7 @@ However, the Navy Yard's role in the country's defense dwindled, and it was even
 
 Today, the Brooklyn Navy Yard is a hub of creativity, innovation, and technology. It is home to numerous companies in various sectors, such as biotech, green tech, and advanced manufacturing, among others. It is also a center for research and development, with a strong focus on sustainability and environmental protection. As such, the Brooklyn Navy Yard plays a critical role in shaping the future of innovation and technology, not just in New York City but also globally.
 
-On his recent visit to the Brooklyn Navy Yard, Mayor Adams was impressed by the cutting-edge research and development taking place at the new lab facility that focuses on sustainability-focused biotech. He pledged to support the facility's growth by donating $20 million to help expand its operations. This donation is expected to foster the growth of the local biotech industry and make Brooklyn a hub for sustainable technology.
+On his recent visit to the Brooklyn Navy Yard, Mayor Adams was impressed by the cutting-edge research and development taking place at the new lab facility that focuses on sustainability-focused biotech. He pledged to support the facility's growth by donating \$20 million to help expand its operations. This donation is expected to foster the growth of the local biotech industry and make Brooklyn a hub for sustainable technology.
 
 During his visit, Mayor Adams also visited numerous companies in various sectors such as biotech, green tech, and advanced manufacturing, among others. His visit aimed to learn more about the businesses in the Brooklyn Navy Yard and their potential impact on the city's economy.
 
@@ -24,9 +24,9 @@ In conclusion, the Brooklyn Navy Yard is a vibrant hub of innovation and technol
 
 [The Brooklyn Navy Yard Has Become a Lab for Planet-Saving Tech - The New York Times (nytimes.com)](https://www.nytimes.com/2023/04/06/nyregion/brooklyn-navy-yard-green-tech.html?ref=oembed)
 
-[History of the Yard | About | Brooklyn Navy Yard](https://www.brooklynnavyyard.org/history.html/)
+[History of the Yard \| About \| Brooklyn Navy Yard](https://www.brooklynnavyyard.org/history.html/)
 
-[Mayor Adams Announces New Center for Sustainability-Focused Biotech | City of New York (nyc.gov)](https://www.nyc.gov/office-of-the-mayor/news/144-23/mayor-adams-nycedc-new-center-sustainability-focused-biotech-open-the-brooklyn)
+[Mayor Adams Announces New Center for Sustainability-Focused Biotech \| City of New York (nyc.gov)](https://www.nyc.gov/office-of-the-mayor/news/144-23/mayor-adams-nycedc-new-center-sustainability-focused-biotech-open-the-brooklyn)
 
 [Kintra Fibers](https://www.kintrafibers.com/)
 
