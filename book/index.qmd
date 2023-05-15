@@ -1,16 +1,42 @@
 ---
-title: "Book Project"
+title: "Seminar 2 Guide to NYC: Explorations of People and Place"
+author: 
+  - Carina Alessandro
+  - Kasia Allen
+  - Vanessa Cruz
+  - Kara Duclosel
+  - Martina Garcia Vasquez
+  - Maxwell Hecht-Chaneski
+  - Chaim (Charlie) Iloqitz
+  - Angelina Lambros
+  - Cobe Liu
+  - Warren Marburg
+  - Matthew O’Connor
+  - Johntae-Allen, Rawling-Lemaine
+  - Paris Ricketts
+  - Nicole Roytlender
+  - Christopher Soto
+  - Mashiat Sultana
+  - Saadiya Taylor
+  - Abigail Tenenbaum
+  - Kyi Williams
+  - Niamh Zanghi
+bibliography: "references.bib"
 editor: visual
 ---
 
-::: {.column-margin}
-
+::: column-margin
 ```{r, echo=FALSE}
 knitr::include_graphics("cover.jpg")
 ```
-
 :::
 
-This is a Seminar 2 student-written guide to the people and places of New York City. We modeled our guide-book after "A people's guide to New York City" (Muñoz, Lewis, & Tumpson Molina, 2022), which also served as our primary textbook for the course. 
+This is a Seminar 2 student-written guide to the people and places of New York City.
 
-We are currently nearing the end of the semester, and this book is under construction until the end of May 2023. 
+## Foreward
+
+This guidebook is the public-facing final project from our seminar 2 course examining how the diverse people of New York City shape the city's identity, past, present, and future. The learning goals of this course covered a wide range of topics, including the experiences of Indigenous and enslaved populations, the ongoing consequences of settler colonialism, the ways in which culture, class, religion, race, gender, ethnicity, xenophobia, and racism have shaped New Yorkers' experiences with and within the city, the formation and social organization of New York's communities, the impact of successive waves of newcomers to the city on urban culture and politics, and the continuing debates over assimilation, cultural retention, and "Americanization."
+
+In the first half of the seminar we read and discussed "A people's guide to New York City" [@bankmuñozPeopleGuideNew2022], along with several additional readings explaining and evaluating research methods in the social sciences. We merged these two sources in the last half of the semester to produce our own guidebook. In this final project, students used the variety of research methods (ethnography, oral history, historiography, archival research, observational research) that we discussed over the semester to write entries into our guidebook. Each student was responsible for writing five entries that allowed them to conduct research to explore our course themes.
+
+Join us as we uncover the stories that have shaped the city's past and continue to shape its future. We invite you to explore the remarkable diversity that thrives within the borders of New York City and appreciate the mosaic of humanity that makes this city truly unique.
