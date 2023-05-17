@@ -1,4 +1,0 @@
----
-title: "Project 3"
-editor: visual
----

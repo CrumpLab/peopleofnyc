@@ -1,0 +1,30 @@
+---
+author: "Kasia Allen"
+title: "Segregation in NYC Public Schools"
+---
+
+Segregation in schools based on neighborhoods has been a deeply rooted issue in New York City, perpetuating inequalities and hindering educational opportunities for marginalized communities. However, in recent years, there have been notable modern-day improvement initiatives aimed at combatting and addressing this problem. We will be examining the historical background of segregation in NYC Schools, learn about current initiatives, highlight success stories, and explore challenges and criticisms.
+
+To understand the current state of segregation, it is essential to acknowledge the historical context. Throughout much of the 20th century, NYC schools were subject to various forms of segregation, both legally and in reality. Discriminatory policies and practices, such as redlining and zoning, resulted in racially and socioeconomically homogeneous neighborhoods, which in turn led to segregated schools. Despite efforts to desegregate, the problem persists today.
+
+Additionally, NYC has recognized the need to address segregation in specialized high schools. The elimination of single test for admission to these schools is one such initiative. Critics argue that this change lowers academic standards, but proponents maintain that it opens doors for a more diverse student body. By implementing multiple criteria for admission and expanding outreach programs, NYC seeks to create a fairer and more equitable system.
+
+There have been numerous success and failure stories that demonstrate these varying initiatives. For instance, the District 1 Diversity Plan and the lack of diversity that occurs in specialized high schools (District 1 is in the lower east side).
+
+District 1, which is historically known for its stark racial and socioeconomic disparities, took a proactive approach to tackle segregation and promote integration. Under the District 1 Diversity Plan, schools in the district have implemented a range of strategies to increase diversity and create more inclusive learning environments. One of these strategies being, implementing controlled choice enrollment systems, which prioritize student diversity during the admissions process, and establishing shared enrollment systems that allow families to apply to multiple schools within the district. One example of the success of these efforts is the integration achieved at the Earth School. The Earth School, located in District 1, transformed from being a predominantly white and affluent school to a more diverse and inclusive institution. Through intentional admissions policies and community engagement, the Earth School achieved a significant increase in racial and socioeconomics diversity, fostering a more equitable and enriching educational experience for its students.
+
+However, despite progress, challenges and criticisms persist. Some argue that current initiatives fall short of addressing the root causes of segregation, such as residential segregation and unequal school funding. These systemic issues require comprehensive solutions beyond school-level interventions. Critics also caution against diluting academic standards in the pursuit of diversity, emphasizing the importance of maintaining high expectations for all students.
+
+Despite efforts to diversify NYC's top-tier high schools, the admission rates for Black students remain disproportionately low. The Specialized High Schools Admissions Test (SHSAT), which serves as the sole criterion for admission to these schools, data revealed that of the students offered seats for the upcoming academic year, only a minute fraction are Black, despite Black students making up a substantial portion of the overall student population in the city's public schools. In May of 2019, only 7 out of 895 freshman seats available were given to Black students in Stuyvesant High School, 12 out of 803 in Bronx High School of Science, 95 out of 1,825 in Brooklyn Tech, and 1 out of 304 in Staten Island Tech, just to name a few and paint the picture of the blatant pattern. These low admission rates contribute to the perpetuation of racial inequalities and limit educational opportunities for Black students. It is no coincident that Black students are often concentrated in underfunded and under-resourced schools. This underrepresentation in elite high schools exacerbates existing disparities in access to quality education and perpetuates the opportunity gap.
+
+Sources
+
+[https://www.nytimes.com/2019/03/18/nyregion/black-students-nyc-high-schools.html](https://www.nytimes.com/2019/03/18/nyregion/black-students-nyc-high-schools.html)
+
+[https://citylimits.org/2017/11/28/cityviews-city-schools-make-a-downpayment-on-diversity/](https://citylimits.org/2017/11/28/cityviews-city-schools-make-a-downpayment-on-diversity/)
+
+[https://www.publicschoolreview.com/blog/new-york-city-schools-most-segregated-in-the-nation](https://www.publicschoolreview.com/blog/new-york-city-schools-most-segregated-in-the-nation)
+
+[https://www.usnews.com/education/k12/new-york/earth-school-213935](https://www.usnews.com/education/k12/new-york/earth-school-213935)
+
+[https://nces.ed.gov/programs/coe/indicator/cge/racial-ethnic-enrollment](https://nces.ed.gov/programs/coe/indicator/cge/racial-ethnic-enrollment)
