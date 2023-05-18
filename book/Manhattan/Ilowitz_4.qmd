@@ -1,5 +1,5 @@
 ---
-tite: "Empire State Building"
+title: "Empire State Building"
 author: "Chaim Ilowitz"
 ---
 
@@ -14,6 +14,8 @@ The plans for the Empire State Building was made during the roaring twenties, wh
 Construction of the Empire State Building was not all what it is said to be. "Official accounts report that five workers died during the construction of the building" (City Signal), with other accounts reporting even higher numbers. Construction work in the 30's did not have the same protection and safety equipment that we have today.
 
 If you are anywhere near Manhattan, the Empire State Building is a sight worthy of visiting at least once. Public transportation makes it extremely easy to get there, with even a sightseeing bus that makes a stop there. Additionally, there are exhibits and observation decks at the Empire State Building, those requiring a ticket for entry. The observation decks on the 102nd floor give a view of the City only accessible from the Empire State Building. It is a beautiful site to visit and take in.
+
+## Sources
 
 Bice, E. (2022, December 28). The Complete History of the Empire State Building. *CitySignal*. <https://www.citysignal.com/empire-state-building-history-facts/>
 

@@ -1,28 +1,30 @@
 ---
-tite: "New York Public Library"
+title: "New York Public Library"
 author: "Chaim Ilowitz"
 ---
 
-In 1895, The New York Public Library was founded. It now has over ninety-two locations throughout the city. It was founded because communities have always had the need for free services and resources. Since its founding, The New York Public Library has always stuck with their unwavering dedication to help people get the resources they need. It now holds “more than fifty-six million items, from books, e-books, and DVDs to renowned research collections used by scholars from around the world” (NYPL).
+In 1895, The New York Public Library was founded. It now has over ninety-two locations throughout the city. It was founded because communities have always had the need for free services and resources. Since its founding, The New York Public Library has always stuck with their unwavering dedication to help people get the resources they need. It now holds "more than fifty-six million items, from books, e-books, and DVDs to renowned research collections used by scholars from around the world" (NYPL).
 
 The Astor and Lennox Libraries were the prominent libraries in the city before they merged to form The New York Public Library. There were many problems with those libraries which caused them to merge, including financial difficulties and that the books did not circulate between branches. They used to be held up by private philanthropies, until they could not do it anymore and they had to change their mission and merge to create a better system for the people. Now, The New York Public Library could be the system that the people desperately needed.
 
-The New York Public Library Central Branch opened on May 23rd, 1911 after sixteen years of planning. Located on 42nd Street and 5th Avenue, it was the “largest marble structure ever built in the United States.” Walk past the stone lions and into the library, you can see cases holding many important manuscripts and things like that. “None of the objects are for sale. But in a way, they already belong to us” (NYT).
+The New York Public Library Central Branch opened on May 23rd, 1911 after sixteen years of planning. Located on 42nd Street and 5th Avenue, it was the "largest marble structure ever built in the United States." Walk past the stone lions and into the library, you can see cases holding many important manuscripts and things like that. "None of the objects are for sale. But in a way, they already belong to us" (NYT).
 
-Andrew Carnegie is to thank for the branches of The New York Public Library we have today. In 1901, he donated $5.2 million for construction costs and “donated much of his private collection as well” (Culture Trip).
+Andrew Carnegie is to thank for the branches of The New York Public Library we have today. In 1901, he donated \$5.2 million for construction costs and "donated much of his private collection as well" (Culture Trip).
 
-The New York Public Library also hosts many events, including job support, coaching services, and working with other writers. These events are free to the public and geared to help with many of the needs of the community. 
+The New York Public Library also hosts many events, including job support, coaching services, and working with other writers. These events are free to the public and geared to help with many of the needs of the community.
 
 Whether you are in need of a certain book, or you just want to view the original Winnie the Pooh stuffed doll, The New York Public Library has what you need. From the majestic entranceway and lavish design and architecture to the many resources the library has, The New York Public Library is full of the necessities people need.
 
-*About The New York Public Library*. (n.d.). The New York Public Library. Retrieved April 27, 2023, from [https://www.nypl.org/help/about-nypl](https://www.nypl.org/help/about-nypl)
+## Sources
 
-*History of The New York Public Library*. (n.d.). The New York Public Library. Retrieved April 27, 2023, from [https://www.nypl.org/help/about-nypl/history](https://www.nypl.org/help/about-nypl/history)
+*About The New York Public Library*. (n.d.). The New York Public Library. Retrieved April 27, 2023, from <https://www.nypl.org/help/about-nypl>
 
-McCormack, J. W. (2017, October 29). *A Brief History of The New York Public Library*. Culture Trip. [https://theculturetrip.com/north-america/usa/new-york/articles/a-brief-history-of-the-new-york-public-library/](https://theculturetrip.com/north-america/usa/new-york/articles/a-brief-history-of-the-new-york-public-library/)
+*History of The New York Public Library*. (n.d.). The New York Public Library. Retrieved April 27, 2023, from <https://www.nypl.org/help/about-nypl/history>
 
-New York Public Library. (2023). In *Wikipedia*. [https://en.wikipedia.org/w/index.php?title=New_York_Public_Library&oldid=1149068305](https://en.wikipedia.org/w/index.php?title=New_York_Public_Library&oldid=1149068305)
+McCormack, J. W. (2017, October 29). *A Brief History of The New York Public Library*. Culture Trip. <https://theculturetrip.com/north-america/usa/new-york/articles/a-brief-history-of-the-new-york-public-library/>
 
-*Reading between the lions: A history of the New York Public Library | 6sqft*. (n.d.). Retrieved April 27, 2023, from [https://www.6sqft.com/reading-between-the-lions-a-history-of-the-new-york-public-library/](https://www.6sqft.com/reading-between-the-lions-a-history-of-the-new-york-public-library/)
+New York Public Library. (2023). In *Wikipedia*. <https://en.wikipedia.org/w/index.php?title=New_York_Public_Library&oldid=1149068305>
 
-Schuessler, J. (2021, December 28). A Cabinet of Wonders Opens Wide. *The New York Times*. [https://www.nytimes.com/2021/12/28/arts/design/ny-public-library-treasures.html](https://www.nytimes.com/2021/12/28/arts/design/ny-public-library-treasures.html)
+*Reading between the lions: A history of the New York Public Library \| 6sqft*. (n.d.). Retrieved April 27, 2023, from <https://www.6sqft.com/reading-between-the-lions-a-history-of-the-new-york-public-library/>
+
+Schuessler, J. (2021, December 28). A Cabinet of Wonders Opens Wide. *The New York Times*. <https://www.nytimes.com/2021/12/28/arts/design/ny-public-library-treasures.html>

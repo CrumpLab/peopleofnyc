@@ -1,30 +1,30 @@
 ---
-tite: "Washington Square Park"
+title: "Washington Square Park"
 author: "Chaim Ilowitz"
 ---
 
-On July 9th, 1819, Rose Butler was executed in what used to be Potter’s Field and now known as Washington Square Park. She was a nineteen-year-old black slave who was convicted of arson after setting her owner’s house on fire and locking them inside, which she admitted was intentional. She was hung for it and this was the last known hanging in Potter’s Field.
+On July 9th, 1819, Rose Butler was executed in what used to be Potter's Field and now known as Washington Square Park. She was a nineteen-year-old black slave who was convicted of arson after setting her owner's house on fire and locking them inside, which she admitted was intentional. She was hung for it and this was the last known hanging in Potter's Field.
 
 Replacing the gallows, there now sits a fountain in the center of the square. The guilty that were killed by the gallows were buried there and there now rests 20,000 deceased people.
 
-Washington Square Park—named after the first President of the United State, George Washington—is now a beautiful site to visit and hang out in. People come from all over the city for the playground, chess matches, cemetery, and beautiful grounds. One person, Edith Molina, came from the Bronx to the park and said, “This is the park you come to chill out. In the Bronx, you have gang violence, and police run you out of parks. Here, police don't do anything.” This shows the disparity between Manhattan and the Bronx.
+Washington Square Park---named after the first President of the United State, George Washington---is now a beautiful site to visit and hang out in. People come from all over the city for the playground, chess matches, cemetery, and beautiful grounds. One person, Edith Molina, came from the Bronx to the park and said, "This is the park you come to chill out. In the Bronx, you have gang violence, and police run you out of parks. Here, police don't do anything." This shows the disparity between Manhattan and the Bronx.
 
-The arch that stands in the park has a history as well. It was built in 1889 out of wood and plaster to commemorate the 100th anniversary of George Washington’s inauguration. After seeing how beautiful it was, the people paid for it to be made out of marble.
+The arch that stands in the park has a history as well. It was built in 1889 out of wood and plaster to commemorate the 100th anniversary of George Washington's inauguration. After seeing how beautiful it was, the people paid for it to be made out of marble.
 
 The park is often the site of protests and riots. For example, after the murder of George Floyd, people protested in the park. They were ignited by the murder and wanted reform to the police in their use of force and violence. Mayor de Blasio supported the police action in the park as they tried to calm people down. Eventually, the police stepped back and allowed the people to protest. There also used to be a curfew in the park, which the police since left behind.
 
 The park has gone through many upgrades and improvements as time went on. These include electric and gas fixtures, benches, and roadways and other pavement. In 1871, the Park Department organized outdoor concerts, taking place every Tuesday in the summer.
 
-Overall, the park is a beautiful place to visit. Whether you’re there for a protest, or just to enjoy the amenities, it is important to keep in mind the long and important history of the park and to be educated on what came before you.
+Overall, the park is a beautiful place to visit. Whether you're there for a protest, or just to enjoy the amenities, it is important to keep in mind the long and important history of the park and to be educated on what came before you.
 
 ## Sources
 
-Freytas-Tamura, K. D. (2021). Whose Park Is It? Residents and Revelers Clash Over Washington Square. *The New York Times*, A24(L)-A24(L). [https://go.gale.com/ps/i.do?id=GALE|A665751692&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=03624331&p=AONE&sw=w&userGroupName=nysl_oweb&isGeoAuthType=true](https://go.gale.com/ps/i.do?id=GALE%7CA665751692&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=03624331&p=AONE&sw=w&userGroupName=nysl_oweb&isGeoAuthType=true)
+Freytas-Tamura, K. D. (2021). Whose Park Is It? Residents and Revelers Clash Over Washington Square. *The New York Times*, A24(L)-A24(L). <https://go.gale.com/ps/i.do?id=GALE%7CA665751692&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=03624331&p=AONE&sw=w&userGroupName=nysl_oweb&isGeoAuthType=true>
 
-Moke, B. (2012, March 16). *Hidden History of Washington Square Park*. Untapped New York. [https://untappedcities.com/2012/03/16/hidden-history-of-washington-square-park/](https://untappedcities.com/2012/03/16/hidden-history-of-washington-square-park/)
+Moke, B. (2012, March 16). *Hidden History of Washington Square Park*. Untapped New York. <https://untappedcities.com/2012/03/16/hidden-history-of-washington-square-park/>
 
-*Slavery, Gentrification, and the Last Execution in Washington Square*. (2015, July 9). Village Preservation. [https://www.villagepreservation.org/2015/07/09/slavery-gentrification-and-the-last-execution-in-washington-square/](https://www.villagepreservation.org/2015/07/09/slavery-gentrification-and-the-last-execution-in-washington-square/)
+*Slavery, Gentrification, and the Last Execution in Washington Square*. (2015, July 9). Village Preservation. <https://www.villagepreservation.org/2015/07/09/slavery-gentrification-and-the-last-execution-in-washington-square/>
 
-*Washington Square Park – History of New York City*. (n.d.). Retrieved April 22, 2023, from [https://blogs.shu.edu/nyc-history/2022/05/04/washington-square-park/](https://blogs.shu.edu/nyc-history/2022/05/04/washington-square-park/)
+*Washington Square Park -- History of New York City*. (n.d.). Retrieved April 22, 2023, from <https://blogs.shu.edu/nyc-history/2022/05/04/washington-square-park/>
 
-*Washington Square Park: NYC Parks*. (n.d.). Retrieved April 22, 2023, from [https://www.nycgovparks.org/parks/washington-square-park](https://www.nycgovparks.org/parks/washington-square-park)
+*Washington Square Park: NYC Parks*. (n.d.). Retrieved April 22, 2023, from <https://www.nycgovparks.org/parks/washington-square-park>

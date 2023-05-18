@@ -1,0 +1,20 @@
+---
+title: "Changes in the Bus Routes/Buses"
+author: "Lucca O'Connor"
+---
+
+December 1 2022 the MTA announced that they would be creating major updates to many routes along the bus network in Brooklyn.  This includes cutting stops, removing lines, etc.  All in the name of faster travel time for bus rides.
+
+Public events started early in 2023 in order to connect more with the people and inform them of details of the plan.  This also includes workshops to gather input on these proposed ideas.  With dates ranging from mid April to early May, there is plenty of opportunity to go to one of these events and put in the much needed feedback.  They take place at various subway stations around New York City, and are held from 3-7 pm.
+
+![image credit:[https://new.mta.info/project/brooklyn-bus-network-redesign](https://new.mta.info/project/brooklyn-bus-network-redesign)](imgs/bus.jpg)
+
+Above is the proposed redesign for the bus network.
+
+The proposed plan has faced a lot of backlash from the community of Brooklynites. While the plan claims to speed up the flow of buses and create a shorter travel time, it ultimately undermines its entire purpose. The current travel time already isn’t completely awful like the plan makes it out to be. “Contrary to MTA's claims that Brooklyn's local buses travel at an unacceptable average speed of 7 mph, such speed is reasonable, not slow, when considering that in Brooklyn on local streets, the average automobile speed is only about 10 mph. Buses travel slightly slower than cars because they necessarily must make more stops.” (Bklyner) There are certainly problems with bus congestion or general traffic in the streets, but that is not addressed in the plan. A plan that would also make what it plans to fix worse. “Eliminating heavily utilized stops increases dwell time at adjacent stops. Bus stop removal saves only a fraction of the claimed average of 20 seconds per bus stop removed. The likelihood of missing the bus also increases, having it pass by while walking the further distance to the nearest stop. That also increases overall travel time.” More people are inconvenienced by the removing of stops, as people who lived by those stops now have to travel more to stops that are generally farther away. The plan is not shortening the travel time, it just restructures your schedule so you spend less time actually riding the bus and more time walking to and from bus stations, which is probably the worst part of traveling somewhere via public transportation.
+
+Sources:
+
+[Are You Listening, MTA? Brooklyn Bus Network Redesign Faces Objections From Every Community](https://bklyner.com/brooklyn-bus-network-redesign-faces-objections-from-every-community-board/)
+
+[Brooklyn Bus Network Redesign](https://new.mta.info/project/brooklyn-bus-network-redesign)

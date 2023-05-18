@@ -1,0 +1,27 @@
+---
+author: "Abigail Tenenbaum"
+title: "CitiBikes"
+date: "5/17/23"
+---
+
+Across Manhattan, Brooklyn, the Bronx, Queens, Jersey City, and Hoboken, one could see CitiBike stations scattered throughout. CitiBikes have been a staple of New York City transport since their establishment. 
+
+CitiBikes came from an increased effort in cities worldwide to become more environmentally conscious. Road transport counts for around 30% of global CO2 emissions. With the environmental crisis that we’re currently in, cities are trying to cut down on pollution. The concept of micromobility in particular is rising in popularity. Micromobility refers to a group of lightweight vehicles that can be used as an alternative to vehicular modes of transportation. These vehicles include but are not limited to (e)scooters, (e)bikes, and skateboards. Using these kinds of transport vehicles over cars is considered much more environmentally-friendly, especially when defaulting to micromobility for short-distance trips. 
+
+One of the initiatives considered by bigger cities are bike sharing programs, in which bikes or e-bikes are made available to the general population. Stations are distributed throughout the city in order to increase accessibility to the bikes themselves. Anyone can easily grab from one station and return it at another. Payment for using the bikes is usually done through mobile applications. 
+
+These bike systems have been in use since the 1960s. Cities such as Barcelona, Paris, and London all have implemented bike sharing. The first city in North America to establish a bike-sharing system was Washington, DC in August 2008. The NYC CitiBike system was announced in September 2011 and launched in May 2013 with 6000 bikes across Manhattan and Brooklyn. Between 2014 and 2017, the use of CitiBikes saved the equivalent of 13,370 tons of oil. 
+
+As of now, a single ride for half an hour costs $4.49, with $0.23 per extra minute, and a full day pass is $19. There are also annual passes that cost $17.08 monthly, billed $205 annually. It’s available to rent on the Lyft App or the CitiBike app. CitiBike has over 143,000 annual members, with many more just renting by the day. The CitiBike system is a great method of environmentally-conscious transportation that will benefit New Yorkers and New York City for years to come. 
+
+Becker, Bernie. “Bicycle-Sharing Program to Be First of Kind in U.S.” *New York Times*, April 27, 2008. [https://www.nytimes.com/2008/04/27/us/27bikes.html](https://www.nytimes.com/2008/04/27/us/27bikes.html).
+
+Chen, Yan, et al. “An Environmental Benefit Analysis of Bike Sharing in New York City.” *Cities*, February 2022. [https://www.sciencedirect.com/science/article/abs/pii/S0264275121003747](https://www.sciencedirect.com/science/article/abs/pii/S0264275121003747).
+
+CitiBike. “About Citi Bike,” n.d. [https://ride.citibikenyc.com/about](https://ride.citibikenyc.com/about).
+
+National Association of City Transportation Officials. “Bike Share and Shared Micromobility Initiative,” n.d. [https://nacto.org/program/bike-share-initiative/](https://nacto.org/program/bike-share-initiative/).
+
+PBSC Urban Solutions. “What Is a Bike Share Program and How Does It Work?” January 17, 2022. [https://www.pbsc.com/blog/2022/01/what-is-a-bike-share-program-and-how-does-it-work](https://www.pbsc.com/blog/2022/01/what-is-a-bike-share-program-and-how-does-it-work).
+
+Price, Jeff, et al. “Micromobility: A Travel Mode Innovation.” *U.S. Department of Transportation,*  vol. 85, no. 1, Spring 2021, [https://highways.dot.gov/public-roads/spring-2021/02](https://highways.dot.gov/public-roads/spring-2021/02).
