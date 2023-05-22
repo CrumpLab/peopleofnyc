@@ -1,0 +1,31 @@
+---
+author: "Cobe Liu"
+title: "Fulton Fish Market"
+date: "5/22/23"
+---
+
+The Fulton Fish Market was a famous fish market in New York City that was in operation from 1822 until 2005. It was located in the South Street Seaport neighborhood of Manhattan, near the Brooklyn Bridge. The market was known for its fresh seafood and bustling atmosphere.
+
+However, the market was not without its problems. In the 1980s, it was discovered that the market was controlled by the Mafia, which led to a major cleanup effort by the city to remove organized crime from the market. Despite these efforts, the market struggled financially in the 1990s and early 2000s, and it was eventually closed in 2005.
+
+In 1987 Federal prosecutors filed a lawsuit seeking to seize control of the Fulton Fish Market in Manhattan, alleging that it is controlled by the Mafia. The civil suit asked a Federal court to appoint supervisors to oversee the market and its main union, United Seafood Workers Local 359 of the United Food and Commercial Workers, A.F.L.-C.I.O. The prosecutors claimed that fish prices were driven up by racketeering and that the market and union were "captive organizations of the Genovese crime family." The suit seeks to appoint administrators to oversee the market's operation and trustees to supervise the daily affairs of Local 359 and its welfare and pension funds until supervised elections are held.
+
+Economically speaking, the Fulton Fish Market is a fascinating case study in imperfect competition—a market structure where all conditions of perfect competition are not met, leading to some distortion in the market.
+
+In a perfect market, goods are identical, but at the Fulton Fish Market, seafood wasn't uniform. Every fish is unique and so are the circumstances of its catch—its size, quality, species, freshness, and the method of its capture can vary significantly, creating natural product differentiation. Different buyers might have different preferences for these attributes, leading to some sellers or fishermen being able to command higher prices than others.
+
+Perfect competition assumes all market participants have complete and equal access to information. However, in the Fulton Fish Market, information was often asymmetric. Fishermen, sellers, and buyers didn't always know what the other party knew—how much supply or demand there was on a particular day, the quality of the catch, or even the prevailing prices elsewhere. 
+
+Today, the South Street Seaport neighborhood has been redeveloped, and the Fulton Fish Market no longer exists in its original form. However, the market remains an important part of New York City's history and legacy as a bustling port city.
+
+## Sources
+
+“A Day from the Original Fulton Fish Market in Manhattan, 1943 - Rare Historical Photos.” *Https://Rarehistoricalphotos.Com/*, 23 July 2022, [https://rarehistoricalphotos.com/vintage-fulton-fish-market-manhattan/](https://rarehistoricalphotos.com/vintage-fulton-fish-market-manhattan/).
+
+Ackman, Dan. “NEW YORKERS & CO.; The Big Man in Shrimp.” *The New York Times*, 2 July 2000. *NYTimes.com*, [https://www.nytimes.com/2000/07/02/nyregion/new-yorkers-co-the-big-man-in-shrimp.html](https://www.nytimes.com/2000/07/02/nyregion/new-yorkers-co-the-big-man-in-shrimp.html).
+
+Barry, Dan. “A Last Whiff of Fulton’s Fish, Bringing a Tear.” *The New York Times*, 10 July 2005. *NYTimes.com*, [https://www.nytimes.com/2005/07/10/nyregion/a-last-whiff-of-fultons-fish-bringing-a-tear.html](https://www.nytimes.com/2005/07/10/nyregion/a-last-whiff-of-fultons-fish-bringing-a-tear.html).
+
+Graddy, Kathryn. “Testing for Imperfect Competition at the Fulton Fish Market.” *The RAND Journal of Economics*, vol. 26, no. 1, 1995, pp. 75–92. *JSTOR*, [https://doi.org/10.2307/2556036](https://doi.org/10.2307/2556036).
+
+Lubasch, Arnold H. “Mafia Runs Fulton Fish Market, U.S. Says in Suit to Take Control.” *The New York Times*, 16 Oct. 1987. *NYTimes.com*, [https://www.nytimes.com/1987/10/16/nyregion/mafia-runs-fulton-fish-market-us-says-in-suit-to-take-control.html](https://www.nytimes.com/1987/10/16/nyregion/mafia-runs-fulton-fish-market-us-says-in-suit-to-take-control.html).

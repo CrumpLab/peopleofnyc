@@ -1,0 +1,22 @@
+---
+author: "Saadiya Taylor"
+title: "Every Student Succeeds Act (ESSA)"
+---
+
+The Every Student Succeeds Act (ESSA) is a US law passed in 2015 that governs the United States K-12 public education policy. The ESSA replaces its 2001 predecessor, the No Child Left Behind Act (NCLB). The aim is to improve the quality of public education and ensure that every student has equal and equitable access to education. The act provides states with more flexibility in designing their education systems by reducing the role of the federal government in state educational policy-making. The states are allowed to develop a plan with clear goals and strategies for building a positive school climate, improving graduation rates and reducing suspension rates and chronic absenteeism.
+
+The identification of improvements needed in schools is the first necessary step to implementing change. Due to this, many states are implementing equity indicators to determine whether the schools require comprehensive support and improvement (CSI) or targeted support and improvement (TSI). Comprehensive support and improvement pertain to the lowest-achieving 5% of schools along with high schools with low graduation rates. Targeted improvements identify schools that consistently fail a particular group, such as low-income, minority, or special-education students. After pinpointing the support needed by the schools, plans must be created that state the application strategies applied. Once approved by the Department of Education, periodic assessments are done to maintain that the district is receiving sufficient resources and support for school improvement.
+
+The development of school leadership is also a priority as it plays a contributing factor in the ways that schools operate. The ESSA promotes that states to recruit, prepare, and develop highly capable school leaders. “Title II, Part A (Supporting Effective Instruction), authorizes approximately $2.3 billion per year (2017–2020) to states… to improve the quality of teachers, principals, or other school leaders. States may reserve up to 3 percent of their grants for activities designed to improve the principal pipeline, such as… training or professional development on such topics as differentiating performance; evaluating teachers; cultural competency; instruction and student learning; postsecondary education for students; science, technology, engineering, and mathematics (STEM), career and technical education (CTE) instruction… recruiting and retaining school leaders; induction and mentoring for early career principals; and differential pay for hard-to-fill positions.” (Rothman, 2017). Through invested improvement to the staff of schools, the school climate is benefiting. Teachers trained in social and emotional competency allow children and adults to “Acquire and effectively apply the knowledge, attitudes, and skills necessary to understand and manage emotions, set and achieve positive goals, feel and show empathy for others, establish and maintain positive relationships, and make responsible decisions (Hammond, 2018). School climates are overlooked by districts as an essential factor in creating an environment where students feel safe, productive and united.
+
+## Sources
+
+1. Bauer, Lauren, Patrick Liu, Diane Whitmore Schanzenbach, and Jay Shambaugh. “Reducing Chronic Absenteeism under the Every Student Succeeds Act,” n.d.
+
+2. Callahan, Rebecca, Leslie Gautsch, Megan Hopkins, and Maria Del Carmen Unda. “Equity and State Immigrant Inclusivity: English Learner Education in ESSA.” *Educational Policy* 36, no. 5 (July 1, 2022): 1011–53. [https://doi.org/10.1177/0895904820925819](https://doi.org/10.1177/0895904820925819).
+
+3. Kostyo, Stephen, Jessica Cardichon, and Linda Darling-Hammond. “Making ESSA’s Equity Promise Real: State Strategies to Close the Opportunity Gap,” n.d.
+
+4. Rothman, Robert. “Improving School Leadership Under ESSA:,” n.d.
+
+5. Smith, Nelson, and Brandon Wright. “LEVERAGEISNMaSrch G| A2017,” n.d.
