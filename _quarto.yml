@@ -58,7 +58,7 @@ website:
     #     - project/5_chpt.qmd
     - title: "Compendium"
       style: "floating"
-      collapse-level: 2
+      collapse-level: 3
       align: left
       contents: compendium
     - title: "Book Project"
