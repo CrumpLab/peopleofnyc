@@ -11,12 +11,6 @@ format:
 
 ### Seminar 2: People of New York City
 
-::: callout-important
-## Under construction
-
-This syllabus is under construction throughout the semester as we discuss and modify how to engage with the learning goals for this course. Updated 5/11/23
-:::
-
 Spring 2023
 
 Section: 1516, MW3H
